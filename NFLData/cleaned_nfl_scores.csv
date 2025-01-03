@@ -1,0 +1,2197 @@
+team_home,score_home,score_away,team_away
+New England Patriots,27.0,42.0,Kansas City Chiefs
+Buffalo Bills,21.0,12.0,New York Jets
+Chicago Bears,17.0,23.0,Atlanta Falcons
+Cincinnati Bengals,0.0,20.0,Baltimore Ravens
+Cleveland Browns,18.0,21.0,Pittsburgh Steelers
+Dallas Cowboys,19.0,3.0,New York Giants
+Detroit Lions,35.0,23.0,Arizona Cardinals
+Green Bay Packers,17.0,9.0,Seattle Seahawks
+Houston Texans,7.0,29.0,Jacksonville Jaguars
+Los Angeles Rams,46.0,9.0,Indianapolis Colts
+San Francisco 49ers,3.0,23.0,Carolina Panthers
+Tennessee Titans,16.0,26.0,Oakland Raiders
+Washington Redskins,17.0,30.0,Philadelphia Eagles
+Denver Broncos,24.0,21.0,Los Angeles Chargers
+Minnesota Vikings,29.0,19.0,New Orleans Saints
+Cincinnati Bengals,9.0,13.0,Houston Texans
+Atlanta Falcons,34.0,23.0,Green Bay Packers
+Baltimore Ravens,24.0,10.0,Cleveland Browns
+Carolina Panthers,9.0,3.0,Buffalo Bills
+Denver Broncos,42.0,17.0,Dallas Cowboys
+Indianapolis Colts,13.0,16.0,Arizona Cardinals
+Jacksonville Jaguars,16.0,37.0,Tennessee Titans
+Kansas City Chiefs,27.0,20.0,Philadelphia Eagles
+Los Angeles Chargers,17.0,19.0,Miami Dolphins
+Los Angeles Rams,20.0,27.0,Washington Redskins
+New Orleans Saints,20.0,36.0,New England Patriots
+Oakland Raiders,45.0,20.0,New York Jets
+Pittsburgh Steelers,26.0,9.0,Minnesota Vikings
+Seattle Seahawks,12.0,9.0,San Francisco 49ers
+Tampa Bay Buccaneers,29.0,7.0,Chicago Bears
+New York Giants,10.0,24.0,Detroit Lions
+San Francisco 49ers,39.0,41.0,Los Angeles Rams
+Buffalo Bills,26.0,16.0,Denver Broncos
+Carolina Panthers,13.0,34.0,New Orleans Saints
+Chicago Bears,23.0,17.0,Pittsburgh Steelers
+Detroit Lions,26.0,30.0,Atlanta Falcons
+Green Bay Packers,27.0,24.0,Cincinnati Bengals
+Indianapolis Colts,31.0,28.0,Cleveland Browns
+Jacksonville Jaguars,44.0,7.0,Baltimore Ravens
+Los Angeles Chargers,10.0,24.0,Kansas City Chiefs
+Minnesota Vikings,34.0,17.0,Tampa Bay Buccaneers
+New England Patriots,36.0,33.0,Houston Texans
+New York Jets,20.0,6.0,Miami Dolphins
+Philadelphia Eagles,27.0,24.0,New York Giants
+Tennessee Titans,33.0,27.0,Seattle Seahawks
+Washington Redskins,27.0,10.0,Oakland Raiders
+Arizona Cardinals,17.0,28.0,Dallas Cowboys
+Green Bay Packers,35.0,14.0,Chicago Bears
+Arizona Cardinals,18.0,15.0,San Francisco 49ers
+Atlanta Falcons,17.0,23.0,Buffalo Bills
+Baltimore Ravens,9.0,26.0,Pittsburgh Steelers
+Cleveland Browns,7.0,31.0,Cincinnati Bengals
+Dallas Cowboys,30.0,35.0,Los Angeles Rams
+Denver Broncos,16.0,10.0,Oakland Raiders
+Houston Texans,57.0,14.0,Tennessee Titans
+Los Angeles Chargers,24.0,26.0,Philadelphia Eagles
+Miami Dolphins,0.0,20.0,New Orleans Saints
+Minnesota Vikings,7.0,14.0,Detroit Lions
+New England Patriots,30.0,33.0,Carolina Panthers
+New York Jets,23.0,20.0,Jacksonville Jaguars
+Seattle Seahawks,46.0,17.0,Indianapolis Colts
+Tampa Bay Buccaneers,25.0,23.0,New York Giants
+Kansas City Chiefs,29.0,20.0,Washington Redskins
+Tampa Bay Buccaneers,14.0,19.0,New England Patriots
+Cincinnati Bengals,20.0,16.0,Buffalo Bills
+Cleveland Browns,14.0,17.0,New York Jets
+Dallas Cowboys,31.0,35.0,Green Bay Packers
+Detroit Lions,24.0,27.0,Carolina Panthers
+Houston Texans,34.0,42.0,Kansas City Chiefs
+Indianapolis Colts,26.0,23.0,San Francisco 49ers
+Los Angeles Rams,10.0,16.0,Seattle Seahawks
+Miami Dolphins,16.0,10.0,Tennessee Titans
+New York Giants,22.0,27.0,Los Angeles Chargers
+Oakland Raiders,17.0,30.0,Baltimore Ravens
+Philadelphia Eagles,34.0,7.0,Arizona Cardinals
+Pittsburgh Steelers,9.0,30.0,Jacksonville Jaguars
+Chicago Bears,17.0,20.0,Minnesota Vikings
+Carolina Panthers,23.0,28.0,Philadelphia Eagles
+Arizona Cardinals,38.0,33.0,Tampa Bay Buccaneers
+Atlanta Falcons,17.0,20.0,Miami Dolphins
+Baltimore Ravens,24.0,27.0,Chicago Bears
+Denver Broncos,10.0,23.0,New York Giants
+Houston Texans,33.0,17.0,Cleveland Browns
+Jacksonville Jaguars,17.0,27.0,Los Angeles Rams
+Kansas City Chiefs,13.0,19.0,Pittsburgh Steelers
+Minnesota Vikings,23.0,10.0,Green Bay Packers
+New Orleans Saints,52.0,38.0,Detroit Lions
+New York Jets,17.0,24.0,New England Patriots
+Oakland Raiders,16.0,17.0,Los Angeles Chargers
+Washington Redskins,26.0,24.0,San Francisco 49ers
+Tennessee Titans,36.0,22.0,Indianapolis Colts
+Oakland Raiders,31.0,30.0,Kansas City Chiefs
+Buffalo Bills,30.0,27.0,Tampa Bay Buccaneers
+Chicago Bears,17.0,3.0,Carolina Panthers
+Cleveland Browns,9.0,12.0,Tennessee Titans
+Green Bay Packers,17.0,26.0,New Orleans Saints
+Indianapolis Colts,0.0,27.0,Jacksonville Jaguars
+Los Angeles Chargers,21.0,0.0,Denver Broncos
+Los Angeles Rams,33.0,0.0,Arizona Cardinals
+Miami Dolphins,31.0,28.0,New York Jets
+Minnesota Vikings,24.0,16.0,Baltimore Ravens
+New England Patriots,23.0,7.0,Atlanta Falcons
+New York Giants,7.0,24.0,Seattle Seahawks
+Pittsburgh Steelers,29.0,14.0,Cincinnati Bengals
+San Francisco 49ers,10.0,40.0,Dallas Cowboys
+Philadelphia Eagles,34.0,24.0,Washington Redskins
+Baltimore Ravens,40.0,0.0,Miami Dolphins
+Buffalo Bills,34.0,14.0,Oakland Raiders
+Cincinnati Bengals,24.0,23.0,Indianapolis Colts
+Cleveland Browns,16.0,33.0,Minnesota Vikings
+Detroit Lions,15.0,20.0,Pittsburgh Steelers
+New England Patriots,21.0,13.0,Los Angeles Chargers
+New Orleans Saints,20.0,12.0,Chicago Bears
+New York Jets,20.0,25.0,Atlanta Falcons
+Philadelphia Eagles,33.0,10.0,San Francisco 49ers
+Seattle Seahawks,41.0,38.0,Houston Texans
+Tampa Bay Buccaneers,3.0,17.0,Carolina Panthers
+Washington Redskins,19.0,33.0,Dallas Cowboys
+Kansas City Chiefs,29.0,19.0,Denver Broncos
+New York Jets,34.0,21.0,Buffalo Bills
+Carolina Panthers,20.0,17.0,Atlanta Falcons
+Dallas Cowboys,28.0,17.0,Kansas City Chiefs
+Houston Texans,14.0,20.0,Indianapolis Colts
+Jacksonville Jaguars,23.0,7.0,Cincinnati Bengals
+Miami Dolphins,24.0,27.0,Oakland Raiders
+New Orleans Saints,30.0,10.0,Tampa Bay Buccaneers
+New York Giants,17.0,51.0,Los Angeles Rams
+Philadelphia Eagles,51.0,23.0,Denver Broncos
+San Francisco 49ers,10.0,20.0,Arizona Cardinals
+Seattle Seahawks,14.0,17.0,Washington Redskins
+Tennessee Titans,23.0,20.0,Baltimore Ravens
+Green Bay Packers,17.0,30.0,Detroit Lions
+Arizona Cardinals,16.0,22.0,Seattle Seahawks
+Atlanta Falcons,27.0,7.0,Dallas Cowboys
+Buffalo Bills,10.0,47.0,New Orleans Saints
+Chicago Bears,16.0,23.0,Green Bay Packers
+Denver Broncos,16.0,41.0,New England Patriots
+Detroit Lions,38.0,24.0,Cleveland Browns
+Indianapolis Colts,17.0,20.0,Pittsburgh Steelers
+Jacksonville Jaguars,20.0,17.0,Los Angeles Chargers
+Los Angeles Rams,33.0,7.0,Houston Texans
+San Francisco 49ers,31.0,21.0,New York Giants
+Tampa Bay Buccaneers,15.0,10.0,New York Jets
+Tennessee Titans,24.0,20.0,Cincinnati Bengals
+Washington Redskins,30.0,38.0,Minnesota Vikings
+Carolina Panthers,45.0,21.0,Miami Dolphins
+Pittsburgh Steelers,40.0,17.0,Tennessee Titans
+Chicago Bears,24.0,27.0,Detroit Lions
+Cleveland Browns,7.0,19.0,Jacksonville Jaguars
+Dallas Cowboys,9.0,37.0,Philadelphia Eagles
+Denver Broncos,17.0,20.0,Cincinnati Bengals
+Green Bay Packers,0.0,23.0,Baltimore Ravens
+Houston Texans,31.0,21.0,Arizona Cardinals
+Los Angeles Chargers,54.0,24.0,Buffalo Bills
+Miami Dolphins,20.0,30.0,Tampa Bay Buccaneers
+Minnesota Vikings,24.0,7.0,Los Angeles Rams
+New Orleans Saints,34.0,31.0,Washington Redskins
+New York Giants,12.0,9.0,Kansas City Chiefs
+Oakland Raiders,8.0,33.0,New England Patriots
+Seattle Seahawks,31.0,34.0,Atlanta Falcons
+Dallas Cowboys,6.0,28.0,Los Angeles Chargers
+Detroit Lions,23.0,30.0,Minnesota Vikings
+Washington Redskins,20.0,10.0,New York Giants
+Arizona Cardinals,27.0,24.0,Jacksonville Jaguars
+Atlanta Falcons,34.0,20.0,Tampa Bay Buccaneers
+Cincinnati Bengals,30.0,16.0,Cleveland Browns
+Indianapolis Colts,16.0,20.0,Tennessee Titans
+Kansas City Chiefs,10.0,16.0,Buffalo Bills
+Los Angeles Rams,26.0,20.0,New Orleans Saints
+New England Patriots,35.0,17.0,Miami Dolphins
+New York Jets,27.0,35.0,Carolina Panthers
+Oakland Raiders,21.0,14.0,Denver Broncos
+Philadelphia Eagles,31.0,3.0,Chicago Bears
+Pittsburgh Steelers,31.0,28.0,Green Bay Packers
+San Francisco 49ers,13.0,24.0,Seattle Seahawks
+Baltimore Ravens,23.0,16.0,Houston Texans
+Dallas Cowboys,38.0,14.0,Washington Redskins
+Arizona Cardinals,16.0,32.0,Los Angeles Rams
+Atlanta Falcons,9.0,14.0,Minnesota Vikings
+Baltimore Ravens,44.0,20.0,Detroit Lions
+Buffalo Bills,3.0,23.0,New England Patriots
+Chicago Bears,14.0,15.0,San Francisco 49ers
+Green Bay Packers,26.0,20.0,Tampa Bay Buccaneers
+Jacksonville Jaguars,30.0,10.0,Indianapolis Colts
+Los Angeles Chargers,19.0,10.0,Cleveland Browns
+Miami Dolphins,35.0,9.0,Denver Broncos
+New Orleans Saints,31.0,21.0,Carolina Panthers
+New York Jets,38.0,31.0,Kansas City Chiefs
+Oakland Raiders,24.0,17.0,New York Giants
+Seattle Seahawks,24.0,10.0,Philadelphia Eagles
+Tennessee Titans,24.0,13.0,Houston Texans
+Cincinnati Bengals,20.0,23.0,Pittsburgh Steelers
+Atlanta Falcons,20.0,17.0,New Orleans Saints
+Arizona Cardinals,12.0,7.0,Tennessee Titans
+Buffalo Bills,13.0,7.0,Indianapolis Colts
+Carolina Panthers,31.0,24.0,Minnesota Vikings
+Cincinnati Bengals,7.0,33.0,Chicago Bears
+Cleveland Browns,21.0,27.0,Green Bay Packers
+Denver Broncos,23.0,0.0,New York Jets
+Houston Texans,16.0,26.0,San Francisco 49ers
+Jacksonville Jaguars,30.0,24.0,Seattle Seahawks
+Kansas City Chiefs,26.0,15.0,Oakland Raiders
+Los Angeles Chargers,30.0,13.0,Washington Redskins
+Los Angeles Rams,35.0,43.0,Philadelphia Eagles
+New York Giants,10.0,30.0,Dallas Cowboys
+Pittsburgh Steelers,39.0,38.0,Baltimore Ravens
+Tampa Bay Buccaneers,21.0,24.0,Detroit Lions
+Miami Dolphins,27.0,20.0,New England Patriots
+Indianapolis Colts,13.0,25.0,Denver Broncos
+Detroit Lions,20.0,10.0,Chicago Bears
+Kansas City Chiefs,30.0,13.0,Los Angeles Chargers
+Buffalo Bills,24.0,16.0,Miami Dolphins
+Carolina Panthers,31.0,24.0,Green Bay Packers
+Cleveland Browns,10.0,27.0,Baltimore Ravens
+Jacksonville Jaguars,45.0,7.0,Houston Texans
+Minnesota Vikings,34.0,7.0,Cincinnati Bengals
+New Orleans Saints,31.0,19.0,New York Jets
+New York Giants,29.0,34.0,Philadelphia Eagles
+Oakland Raiders,17.0,20.0,Dallas Cowboys
+Pittsburgh Steelers,24.0,27.0,New England Patriots
+San Francisco 49ers,25.0,23.0,Tennessee Titans
+Seattle Seahawks,7.0,42.0,Los Angeles Rams
+Washington Redskins,20.0,15.0,Arizona Cardinals
+Tampa Bay Buccaneers,21.0,24.0,Atlanta Falcons
+Baltimore Ravens,23.0,16.0,Indianapolis Colts
+Green Bay Packers,0.0,16.0,Minnesota Vikings
+Arizona Cardinals,23.0,0.0,New York Giants
+Carolina Panthers,22.0,19.0,Tampa Bay Buccaneers
+Chicago Bears,20.0,3.0,Cleveland Browns
+Cincinnati Bengals,26.0,17.0,Detroit Lions
+Dallas Cowboys,12.0,21.0,Seattle Seahawks
+Kansas City Chiefs,29.0,13.0,Miami Dolphins
+New England Patriots,37.0,16.0,Buffalo Bills
+New Orleans Saints,23.0,13.0,Atlanta Falcons
+New York Jets,7.0,14.0,Los Angeles Chargers
+San Francisco 49ers,44.0,33.0,Jacksonville Jaguars
+Tennessee Titans,23.0,27.0,Los Angeles Rams
+Washington Redskins,27.0,11.0,Denver Broncos
+Houston Texans,6.0,34.0,Pittsburgh Steelers
+Philadelphia Eagles,19.0,10.0,Oakland Raiders
+Atlanta Falcons,22.0,10.0,Carolina Panthers
+Baltimore Ravens,27.0,31.0,Cincinnati Bengals
+Denver Broncos,24.0,27.0,Kansas City Chiefs
+Detroit Lions,35.0,11.0,Green Bay Packers
+Indianapolis Colts,22.0,13.0,Houston Texans
+Los Angeles Chargers,30.0,10.0,Oakland Raiders
+Los Angeles Rams,13.0,34.0,San Francisco 49ers
+Miami Dolphins,16.0,22.0,Buffalo Bills
+Minnesota Vikings,23.0,10.0,Chicago Bears
+New England Patriots,26.0,6.0,New York Jets
+New York Giants,18.0,10.0,Washington Redskins
+Philadelphia Eagles,0.0,6.0,Dallas Cowboys
+Pittsburgh Steelers,28.0,24.0,Cleveland Browns
+Seattle Seahawks,24.0,26.0,Arizona Cardinals
+Tampa Bay Buccaneers,31.0,24.0,New Orleans Saints
+Tennessee Titans,15.0,10.0,Jacksonville Jaguars
+Kansas City Chiefs,21.0,22.0,Tennessee Titans
+Los Angeles Rams,13.0,26.0,Atlanta Falcons
+Jacksonville Jaguars,10.0,3.0,Buffalo Bills
+New Orleans Saints,31.0,26.0,Carolina Panthers
+New England Patriots,35.0,14.0,Tennessee Titans
+Philadelphia Eagles,15.0,10.0,Atlanta Falcons
+Minnesota Vikings,29.0,24.0,New Orleans Saints
+Pittsburgh Steelers,42.0,45.0,Jacksonville Jaguars
+New England Patriots,24.0,20.0,Jacksonville Jaguars
+Philadelphia Eagles,38.0,7.0,Minnesota Vikings
+New England Patriots,33.0,41.0,Philadelphia Eagles
+Philadelphia Eagles,18.0,12.0,Atlanta Falcons
+Arizona Cardinals,6.0,24.0,Washington Redskins
+Baltimore Ravens,47.0,3.0,Buffalo Bills
+Carolina Panthers,16.0,8.0,Dallas Cowboys
+Cleveland Browns,21.0,21.0,Pittsburgh Steelers
+Denver Broncos,27.0,24.0,Seattle Seahawks
+Green Bay Packers,24.0,23.0,Chicago Bears
+Indianapolis Colts,23.0,34.0,Cincinnati Bengals
+Los Angeles Chargers,28.0,38.0,Kansas City Chiefs
+Miami Dolphins,27.0,20.0,Tennessee Titans
+Minnesota Vikings,24.0,16.0,San Francisco 49ers
+New England Patriots,27.0,20.0,Houston Texans
+New Orleans Saints,40.0,48.0,Tampa Bay Buccaneers
+New York Giants,15.0,20.0,Jacksonville Jaguars
+Detroit Lions,17.0,48.0,New York Jets
+Oakland Raiders,13.0,33.0,Los Angeles Rams
+Cincinnati Bengals,34.0,23.0,Baltimore Ravens
+Atlanta Falcons,31.0,24.0,Carolina Panthers
+Buffalo Bills,20.0,31.0,Los Angeles Chargers
+Dallas Cowboys,20.0,13.0,New York Giants
+Denver Broncos,20.0,19.0,Oakland Raiders
+Green Bay Packers,29.0,29.0,Minnesota Vikings
+Jacksonville Jaguars,31.0,20.0,New England Patriots
+Los Angeles Rams,34.0,0.0,Arizona Cardinals
+New Orleans Saints,21.0,18.0,Cleveland Browns
+New York Jets,12.0,20.0,Miami Dolphins
+Pittsburgh Steelers,37.0,42.0,Kansas City Chiefs
+San Francisco 49ers,30.0,27.0,Detroit Lions
+Tampa Bay Buccaneers,27.0,21.0,Philadelphia Eagles
+Tennessee Titans,20.0,17.0,Houston Texans
+Washington Redskins,9.0,21.0,Indianapolis Colts
+Chicago Bears,24.0,17.0,Seattle Seahawks
+Cleveland Browns,21.0,17.0,New York Jets
+Arizona Cardinals,14.0,16.0,Chicago Bears
+Atlanta Falcons,37.0,43.0,New Orleans Saints
+Baltimore Ravens,27.0,14.0,Denver Broncos
+Carolina Panthers,31.0,21.0,Cincinnati Bengals
+Detroit Lions,26.0,10.0,New England Patriots
+Houston Texans,22.0,27.0,New York Giants
+Jacksonville Jaguars,6.0,9.0,Tennessee Titans
+Kansas City Chiefs,38.0,27.0,San Francisco 49ers
+Los Angeles Rams,35.0,23.0,Los Angeles Chargers
+Miami Dolphins,28.0,20.0,Oakland Raiders
+Minnesota Vikings,6.0,27.0,Buffalo Bills
+Philadelphia Eagles,20.0,16.0,Indianapolis Colts
+Seattle Seahawks,24.0,13.0,Dallas Cowboys
+Washington Redskins,31.0,17.0,Green Bay Packers
+Tampa Bay Buccaneers,27.0,30.0,Pittsburgh Steelers
+Los Angeles Rams,38.0,31.0,Minnesota Vikings
+Arizona Cardinals,17.0,20.0,Seattle Seahawks
+Atlanta Falcons,36.0,37.0,Cincinnati Bengals
+Chicago Bears,48.0,10.0,Tampa Bay Buccaneers
+Dallas Cowboys,26.0,24.0,Detroit Lions
+Green Bay Packers,22.0,0.0,Buffalo Bills
+Indianapolis Colts,34.0,37.0,Houston Texans
+Jacksonville Jaguars,31.0,12.0,New York Jets
+Los Angeles Chargers,29.0,27.0,San Francisco 49ers
+New England Patriots,38.0,7.0,Miami Dolphins
+New York Giants,18.0,33.0,New Orleans Saints
+Oakland Raiders,45.0,42.0,Cleveland Browns
+Pittsburgh Steelers,14.0,26.0,Baltimore Ravens
+Tennessee Titans,26.0,23.0,Philadelphia Eagles
+Denver Broncos,23.0,27.0,Kansas City Chiefs
+New England Patriots,38.0,24.0,Indianapolis Colts
+Buffalo Bills,13.0,12.0,Tennessee Titans
+Carolina Panthers,33.0,31.0,New York Giants
+Cincinnati Bengals,27.0,17.0,Miami Dolphins
+Cleveland Browns,12.0,9.0,Baltimore Ravens
+Detroit Lions,31.0,23.0,Green Bay Packers
+Houston Texans,19.0,16.0,Dallas Cowboys
+Kansas City Chiefs,30.0,14.0,Jacksonville Jaguars
+Los Angeles Chargers,26.0,10.0,Oakland Raiders
+New York Jets,34.0,16.0,Denver Broncos
+Philadelphia Eagles,21.0,23.0,Minnesota Vikings
+Pittsburgh Steelers,41.0,17.0,Atlanta Falcons
+San Francisco 49ers,18.0,28.0,Arizona Cardinals
+Seattle Seahawks,31.0,33.0,Los Angeles Rams
+New Orleans Saints,43.0,19.0,Washington Redskins
+New York Giants,13.0,34.0,Philadelphia Eagles
+Atlanta Falcons,34.0,29.0,Tampa Bay Buccaneers
+Cincinnati Bengals,21.0,28.0,Pittsburgh Steelers
+Cleveland Browns,14.0,38.0,Los Angeles Chargers
+Dallas Cowboys,40.0,7.0,Jacksonville Jaguars
+Denver Broncos,20.0,23.0,Los Angeles Rams
+Houston Texans,20.0,13.0,Buffalo Bills
+Miami Dolphins,31.0,28.0,Chicago Bears
+Minnesota Vikings,27.0,17.0,Arizona Cardinals
+New England Patriots,43.0,40.0,Kansas City Chiefs
+New York Jets,42.0,34.0,Indianapolis Colts
+Oakland Raiders,3.0,27.0,Seattle Seahawks
+Tennessee Titans,0.0,21.0,Baltimore Ravens
+Washington Redskins,23.0,17.0,Carolina Panthers
+Green Bay Packers,33.0,30.0,San Francisco 49ers
+Arizona Cardinals,10.0,45.0,Denver Broncos
+Baltimore Ravens,23.0,24.0,New Orleans Saints
+Chicago Bears,31.0,38.0,New England Patriots
+Indianapolis Colts,37.0,5.0,Buffalo Bills
+Jacksonville Jaguars,7.0,20.0,Houston Texans
+Kansas City Chiefs,45.0,10.0,Cincinnati Bengals
+Los Angeles Chargers,20.0,19.0,Tennessee Titans
+Miami Dolphins,21.0,32.0,Detroit Lions
+New York Jets,17.0,37.0,Minnesota Vikings
+Philadelphia Eagles,17.0,21.0,Carolina Panthers
+San Francisco 49ers,10.0,39.0,Los Angeles Rams
+Tampa Bay Buccaneers,26.0,23.0,Cleveland Browns
+Washington Redskins,20.0,17.0,Dallas Cowboys
+Atlanta Falcons,23.0,20.0,New York Giants
+Houston Texans,42.0,23.0,Miami Dolphins
+Arizona Cardinals,18.0,15.0,San Francisco 49ers
+Carolina Panthers,36.0,21.0,Baltimore Ravens
+Chicago Bears,24.0,10.0,New York Jets
+Cincinnati Bengals,37.0,34.0,Tampa Bay Buccaneers
+Detroit Lions,14.0,28.0,Seattle Seahawks
+Jacksonville Jaguars,18.0,24.0,Philadelphia Eagles
+Kansas City Chiefs,30.0,23.0,Denver Broncos
+Los Angeles Rams,29.0,27.0,Green Bay Packers
+Minnesota Vikings,20.0,30.0,New Orleans Saints
+New York Giants,13.0,20.0,Washington Redskins
+Oakland Raiders,28.0,42.0,Indianapolis Colts
+Pittsburgh Steelers,33.0,18.0,Cleveland Browns
+Buffalo Bills,6.0,25.0,New England Patriots
+San Francisco 49ers,34.0,3.0,Oakland Raiders
+Baltimore Ravens,16.0,23.0,Pittsburgh Steelers
+Buffalo Bills,9.0,41.0,Chicago Bears
+Carolina Panthers,42.0,28.0,Tampa Bay Buccaneers
+Cleveland Browns,21.0,37.0,Kansas City Chiefs
+Denver Broncos,17.0,19.0,Houston Texans
+Miami Dolphins,13.0,6.0,New York Jets
+Minnesota Vikings,24.0,9.0,Detroit Lions
+New England Patriots,31.0,17.0,Green Bay Packers
+New Orleans Saints,45.0,35.0,Los Angeles Rams
+Seattle Seahawks,17.0,25.0,Los Angeles Chargers
+Washington Redskins,14.0,38.0,Atlanta Falcons
+Dallas Cowboys,14.0,28.0,Tennessee Titans
+Pittsburgh Steelers,52.0,21.0,Carolina Panthers
+Chicago Bears,34.0,22.0,Detroit Lions
+Cincinnati Bengals,14.0,51.0,New Orleans Saints
+Cleveland Browns,28.0,16.0,Atlanta Falcons
+Green Bay Packers,31.0,12.0,Miami Dolphins
+Indianapolis Colts,29.0,26.0,Jacksonville Jaguars
+Kansas City Chiefs,26.0,14.0,Arizona Cardinals
+Los Angeles Rams,36.0,31.0,Seattle Seahawks
+New York Jets,10.0,41.0,Buffalo Bills
+Oakland Raiders,6.0,20.0,Los Angeles Chargers
+Philadelphia Eagles,20.0,27.0,Dallas Cowboys
+Tampa Bay Buccaneers,3.0,16.0,Washington Redskins
+Tennessee Titans,34.0,10.0,New England Patriots
+San Francisco 49ers,23.0,27.0,New York Giants
+Seattle Seahawks,27.0,24.0,Green Bay Packers
+Arizona Cardinals,21.0,23.0,Oakland Raiders
+Atlanta Falcons,19.0,22.0,Dallas Cowboys
+Baltimore Ravens,24.0,21.0,Cincinnati Bengals
+Chicago Bears,25.0,20.0,Minnesota Vikings
+Detroit Lions,20.0,19.0,Carolina Panthers
+Indianapolis Colts,38.0,10.0,Tennessee Titans
+Jacksonville Jaguars,16.0,20.0,Pittsburgh Steelers
+Los Angeles Chargers,22.0,23.0,Denver Broncos
+New Orleans Saints,48.0,7.0,Philadelphia Eagles
+New York Giants,38.0,35.0,Tampa Bay Buccaneers
+Washington Redskins,21.0,23.0,Houston Texans
+Los Angeles Rams,54.0,51.0,Kansas City Chiefs
+Dallas Cowboys,31.0,23.0,Washington Redskins
+Detroit Lions,16.0,23.0,Chicago Bears
+New Orleans Saints,31.0,17.0,Atlanta Falcons
+Baltimore Ravens,34.0,17.0,Oakland Raiders
+Buffalo Bills,24.0,21.0,Jacksonville Jaguars
+Carolina Panthers,27.0,30.0,Seattle Seahawks
+Cincinnati Bengals,20.0,35.0,Cleveland Browns
+Denver Broncos,24.0,17.0,Pittsburgh Steelers
+Indianapolis Colts,27.0,24.0,Miami Dolphins
+Los Angeles Chargers,45.0,10.0,Arizona Cardinals
+Minnesota Vikings,24.0,17.0,Green Bay Packers
+New York Jets,13.0,27.0,New England Patriots
+Philadelphia Eagles,25.0,22.0,New York Giants
+Tampa Bay Buccaneers,27.0,9.0,San Francisco 49ers
+Houston Texans,34.0,17.0,Tennessee Titans
+Dallas Cowboys,13.0,10.0,New Orleans Saints
+Atlanta Falcons,16.0,26.0,Baltimore Ravens
+Cincinnati Bengals,10.0,24.0,Denver Broncos
+Detroit Lions,16.0,30.0,Los Angeles Rams
+Green Bay Packers,17.0,20.0,Arizona Cardinals
+Houston Texans,29.0,13.0,Cleveland Browns
+Jacksonville Jaguars,6.0,0.0,Indianapolis Colts
+Miami Dolphins,21.0,17.0,Buffalo Bills
+New England Patriots,24.0,10.0,Minnesota Vikings
+New York Giants,30.0,27.0,Chicago Bears
+Oakland Raiders,33.0,40.0,Kansas City Chiefs
+Pittsburgh Steelers,30.0,33.0,Los Angeles Chargers
+Seattle Seahawks,43.0,16.0,San Francisco 49ers
+Tampa Bay Buccaneers,24.0,17.0,Carolina Panthers
+Tennessee Titans,26.0,22.0,New York Jets
+Philadelphia Eagles,28.0,13.0,Washington Redskins
+Tennessee Titans,30.0,9.0,Jacksonville Jaguars
+Arizona Cardinals,3.0,17.0,Detroit Lions
+Buffalo Bills,23.0,27.0,New York Jets
+Chicago Bears,15.0,6.0,Los Angeles Rams
+Cleveland Browns,26.0,20.0,Carolina Panthers
+Dallas Cowboys,29.0,23.0,Philadelphia Eagles
+Green Bay Packers,34.0,20.0,Atlanta Falcons
+Houston Texans,21.0,24.0,Indianapolis Colts
+Kansas City Chiefs,27.0,24.0,Baltimore Ravens
+Los Angeles Chargers,26.0,21.0,Cincinnati Bengals
+Miami Dolphins,34.0,33.0,New England Patriots
+Oakland Raiders,24.0,21.0,Pittsburgh Steelers
+San Francisco 49ers,20.0,14.0,Denver Broncos
+Tampa Bay Buccaneers,14.0,28.0,New Orleans Saints
+Washington Redskins,16.0,40.0,New York Giants
+Seattle Seahawks,21.0,7.0,Minnesota Vikings
+Kansas City Chiefs,28.0,29.0,Los Angeles Chargers
+Denver Broncos,16.0,17.0,Cleveland Browns
+New York Jets,22.0,29.0,Houston Texans
+Atlanta Falcons,40.0,14.0,Arizona Cardinals
+Baltimore Ravens,20.0,12.0,Tampa Bay Buccaneers
+Buffalo Bills,14.0,13.0,Detroit Lions
+Chicago Bears,24.0,17.0,Green Bay Packers
+Cincinnati Bengals,30.0,16.0,Oakland Raiders
+Indianapolis Colts,23.0,0.0,Dallas Cowboys
+Jacksonville Jaguars,13.0,16.0,Washington Redskins
+Los Angeles Rams,23.0,30.0,Philadelphia Eagles
+Minnesota Vikings,41.0,17.0,Miami Dolphins
+New York Giants,0.0,17.0,Tennessee Titans
+Pittsburgh Steelers,17.0,10.0,New England Patriots
+San Francisco 49ers,26.0,23.0,Seattle Seahawks
+Carolina Panthers,9.0,12.0,New Orleans Saints
+Los Angeles Chargers,10.0,22.0,Baltimore Ravens
+Tennessee Titans,25.0,16.0,Washington Redskins
+Arizona Cardinals,9.0,31.0,Los Angeles Rams
+Carolina Panthers,10.0,24.0,Atlanta Falcons
+Cleveland Browns,26.0,18.0,Cincinnati Bengals
+Dallas Cowboys,27.0,20.0,Tampa Bay Buccaneers
+Detroit Lions,9.0,27.0,Minnesota Vikings
+Indianapolis Colts,28.0,27.0,New York Giants
+Miami Dolphins,7.0,17.0,Jacksonville Jaguars
+New England Patriots,24.0,12.0,Buffalo Bills
+New Orleans Saints,31.0,28.0,Pittsburgh Steelers
+New York Jets,38.0,44.0,Green Bay Packers
+Philadelphia Eagles,32.0,30.0,Houston Texans
+San Francisco 49ers,9.0,14.0,Chicago Bears
+Seattle Seahawks,38.0,31.0,Kansas City Chiefs
+Oakland Raiders,27.0,14.0,Denver Broncos
+Baltimore Ravens,26.0,24.0,Cleveland Browns
+Buffalo Bills,42.0,17.0,Miami Dolphins
+Denver Broncos,9.0,23.0,Los Angeles Chargers
+Green Bay Packers,0.0,31.0,Detroit Lions
+Houston Texans,20.0,3.0,Jacksonville Jaguars
+Kansas City Chiefs,35.0,3.0,Oakland Raiders
+Los Angeles Rams,48.0,32.0,San Francisco 49ers
+Minnesota Vikings,10.0,24.0,Chicago Bears
+New England Patriots,38.0,3.0,New York Jets
+New Orleans Saints,14.0,33.0,Carolina Panthers
+New York Giants,35.0,36.0,Dallas Cowboys
+Pittsburgh Steelers,16.0,13.0,Cincinnati Bengals
+Seattle Seahawks,27.0,24.0,Arizona Cardinals
+Tampa Bay Buccaneers,32.0,34.0,Atlanta Falcons
+Tennessee Titans,17.0,33.0,Indianapolis Colts
+Washington Redskins,0.0,24.0,Philadelphia Eagles
+Dallas Cowboys,24.0,22.0,Seattle Seahawks
+Houston Texans,7.0,21.0,Indianapolis Colts
+Baltimore Ravens,17.0,23.0,Los Angeles Chargers
+Chicago Bears,15.0,16.0,Philadelphia Eagles
+Kansas City Chiefs,31.0,13.0,Indianapolis Colts
+Los Angeles Rams,30.0,22.0,Dallas Cowboys
+New England Patriots,41.0,28.0,Los Angeles Chargers
+New Orleans Saints,20.0,14.0,Philadelphia Eagles
+Kansas City Chiefs,31.0,37.0,New England Patriots
+New Orleans Saints,23.0,26.0,Los Angeles Rams
+Los Angeles Rams,3.0,13.0,New England Patriots
+Chicago Bears,3.0,10.0,Green Bay Packers
+Arizona Cardinals,27.0,27.0,Detroit Lions
+Carolina Panthers,27.0,30.0,Los Angeles Rams
+Cleveland Browns,13.0,43.0,Tennessee Titans
+Dallas Cowboys,35.0,17.0,New York Giants
+Jacksonville Jaguars,26.0,40.0,Kansas City Chiefs
+Los Angeles Chargers,30.0,24.0,Indianapolis Colts
+Miami Dolphins,10.0,59.0,Baltimore Ravens
+Minnesota Vikings,28.0,12.0,Atlanta Falcons
+New England Patriots,33.0,3.0,Pittsburgh Steelers
+New York Jets,16.0,17.0,Buffalo Bills
+Philadelphia Eagles,32.0,27.0,Washington Redskins
+Seattle Seahawks,21.0,20.0,Cincinnati Bengals
+Tampa Bay Buccaneers,17.0,31.0,San Francisco 49ers
+New Orleans Saints,30.0,28.0,Houston Texans
+Oakland Raiders,24.0,16.0,Denver Broncos
+Carolina Panthers,14.0,20.0,Tampa Bay Buccaneers
+Atlanta Falcons,24.0,20.0,Philadelphia Eagles
+Baltimore Ravens,23.0,17.0,Arizona Cardinals
+Cincinnati Bengals,17.0,41.0,San Francisco 49ers
+Denver Broncos,14.0,16.0,Chicago Bears
+Detroit Lions,13.0,10.0,Los Angeles Chargers
+Green Bay Packers,21.0,16.0,Minnesota Vikings
+Houston Texans,13.0,12.0,Jacksonville Jaguars
+Los Angeles Rams,27.0,9.0,New Orleans Saints
+Miami Dolphins,0.0,43.0,New England Patriots
+New York Giants,14.0,28.0,Buffalo Bills
+Oakland Raiders,10.0,28.0,Kansas City Chiefs
+Pittsburgh Steelers,26.0,28.0,Seattle Seahawks
+Tennessee Titans,17.0,19.0,Indianapolis Colts
+Washington Redskins,21.0,31.0,Dallas Cowboys
+New York Jets,3.0,23.0,Cleveland Browns
+Jacksonville Jaguars,20.0,7.0,Tennessee Titans
+Arizona Cardinals,20.0,38.0,Carolina Panthers
+Buffalo Bills,21.0,17.0,Cincinnati Bengals
+Cleveland Browns,13.0,20.0,Los Angeles Rams
+Dallas Cowboys,31.0,6.0,Miami Dolphins
+Green Bay Packers,27.0,16.0,Denver Broncos
+Indianapolis Colts,27.0,24.0,Atlanta Falcons
+Kansas City Chiefs,33.0,28.0,Baltimore Ravens
+Los Angeles Chargers,20.0,27.0,Houston Texans
+Minnesota Vikings,34.0,14.0,Oakland Raiders
+New England Patriots,30.0,14.0,New York Jets
+Philadelphia Eagles,24.0,27.0,Detroit Lions
+San Francisco 49ers,24.0,20.0,Pittsburgh Steelers
+Seattle Seahawks,27.0,33.0,New Orleans Saints
+Tampa Bay Buccaneers,31.0,32.0,New York Giants
+Washington Redskins,15.0,31.0,Chicago Bears
+Green Bay Packers,27.0,34.0,Philadelphia Eagles
+Arizona Cardinals,10.0,27.0,Seattle Seahawks
+Atlanta Falcons,10.0,24.0,Tennessee Titans
+Baltimore Ravens,25.0,40.0,Cleveland Browns
+Buffalo Bills,10.0,16.0,New England Patriots
+Chicago Bears,16.0,6.0,Minnesota Vikings
+Denver Broncos,24.0,26.0,Jacksonville Jaguars
+Detroit Lions,30.0,34.0,Kansas City Chiefs
+Houston Texans,10.0,16.0,Carolina Panthers
+Indianapolis Colts,24.0,31.0,Oakland Raiders
+Los Angeles Rams,40.0,55.0,Tampa Bay Buccaneers
+Miami Dolphins,10.0,30.0,Los Angeles Chargers
+New Orleans Saints,12.0,10.0,Dallas Cowboys
+New York Giants,24.0,3.0,Washington Redskins
+Pittsburgh Steelers,27.0,3.0,Cincinnati Bengals
+Seattle Seahawks,30.0,29.0,Los Angeles Rams
+Carolina Panthers,34.0,27.0,Jacksonville Jaguars
+Cincinnati Bengals,23.0,26.0,Arizona Cardinals
+Dallas Cowboys,24.0,34.0,Green Bay Packers
+Houston Texans,53.0,32.0,Atlanta Falcons
+Kansas City Chiefs,13.0,19.0,Indianapolis Colts
+Los Angeles Chargers,13.0,20.0,Denver Broncos
+New Orleans Saints,31.0,24.0,Tampa Bay Buccaneers
+New York Giants,10.0,28.0,Minnesota Vikings
+Oakland Raiders,24.0,21.0,Chicago Bears
+Philadelphia Eagles,31.0,6.0,New York Jets
+Pittsburgh Steelers,23.0,26.0,Baltimore Ravens
+Tennessee Titans,7.0,14.0,Buffalo Bills
+Washington Redskins,7.0,33.0,New England Patriots
+San Francisco 49ers,31.0,3.0,Cleveland Browns
+New England Patriots,35.0,14.0,New York Giants
+Arizona Cardinals,34.0,33.0,Atlanta Falcons
+Baltimore Ravens,23.0,17.0,Cincinnati Bengals
+Cleveland Browns,28.0,32.0,Seattle Seahawks
+Denver Broncos,16.0,0.0,Tennessee Titans
+Jacksonville Jaguars,6.0,13.0,New Orleans Saints
+Kansas City Chiefs,24.0,31.0,Houston Texans
+Los Angeles Chargers,17.0,24.0,Pittsburgh Steelers
+Los Angeles Rams,7.0,20.0,San Francisco 49ers
+Miami Dolphins,16.0,17.0,Washington Redskins
+Minnesota Vikings,38.0,20.0,Philadelphia Eagles
+New York Jets,24.0,22.0,Dallas Cowboys
+Tampa Bay Buccaneers,26.0,37.0,Carolina Panthers
+Green Bay Packers,23.0,22.0,Detroit Lions
+Denver Broncos,6.0,30.0,Kansas City Chiefs
+Atlanta Falcons,10.0,37.0,Los Angeles Rams
+Buffalo Bills,31.0,21.0,Miami Dolphins
+Chicago Bears,25.0,36.0,New Orleans Saints
+Cincinnati Bengals,17.0,27.0,Jacksonville Jaguars
+Dallas Cowboys,37.0,10.0,Philadelphia Eagles
+Detroit Lions,30.0,42.0,Minnesota Vikings
+Green Bay Packers,42.0,24.0,Oakland Raiders
+Indianapolis Colts,30.0,23.0,Houston Texans
+New York Giants,21.0,27.0,Arizona Cardinals
+Seattle Seahawks,16.0,30.0,Baltimore Ravens
+Tennessee Titans,23.0,20.0,Los Angeles Chargers
+Washington Redskins,0.0,9.0,San Francisco 49ers
+New York Jets,0.0,33.0,New England Patriots
+Minnesota Vikings,19.0,9.0,Washington Redskins
+Atlanta Falcons,20.0,27.0,Seattle Seahawks
+Buffalo Bills,13.0,31.0,Philadelphia Eagles
+Chicago Bears,16.0,17.0,Los Angeles Chargers
+Detroit Lions,31.0,26.0,New York Giants
+Houston Texans,27.0,24.0,Oakland Raiders
+Indianapolis Colts,15.0,13.0,Denver Broncos
+Jacksonville Jaguars,29.0,15.0,New York Jets
+Kansas City Chiefs,24.0,31.0,Green Bay Packers
+Los Angeles Rams,24.0,10.0,Cincinnati Bengals
+New England Patriots,27.0,13.0,Cleveland Browns
+New Orleans Saints,31.0,9.0,Arizona Cardinals
+San Francisco 49ers,51.0,13.0,Carolina Panthers
+Tennessee Titans,27.0,23.0,Tampa Bay Buccaneers
+Pittsburgh Steelers,27.0,14.0,Miami Dolphins
+Arizona Cardinals,25.0,28.0,San Francisco 49ers
+Baltimore Ravens,37.0,20.0,New England Patriots
+Buffalo Bills,24.0,9.0,Washington Redskins
+Carolina Panthers,30.0,20.0,Tennessee Titans
+Denver Broncos,24.0,19.0,Cleveland Browns
+Jacksonville Jaguars,3.0,26.0,Houston Texans
+Kansas City Chiefs,26.0,23.0,Minnesota Vikings
+Los Angeles Chargers,26.0,11.0,Green Bay Packers
+Miami Dolphins,26.0,18.0,New York Jets
+Oakland Raiders,31.0,24.0,Detroit Lions
+Philadelphia Eagles,22.0,14.0,Chicago Bears
+Pittsburgh Steelers,26.0,24.0,Indianapolis Colts
+Seattle Seahawks,40.0,34.0,Tampa Bay Buccaneers
+New York Giants,18.0,37.0,Dallas Cowboys
+Oakland Raiders,26.0,24.0,Los Angeles Chargers
+Chicago Bears,20.0,13.0,Detroit Lions
+Cincinnati Bengals,13.0,49.0,Baltimore Ravens
+Cleveland Browns,19.0,16.0,Buffalo Bills
+Dallas Cowboys,24.0,28.0,Minnesota Vikings
+Green Bay Packers,24.0,16.0,Carolina Panthers
+Indianapolis Colts,12.0,16.0,Miami Dolphins
+New Orleans Saints,9.0,26.0,Atlanta Falcons
+New York Jets,34.0,27.0,New York Giants
+Pittsburgh Steelers,17.0,12.0,Los Angeles Rams
+Tampa Bay Buccaneers,30.0,27.0,Arizona Cardinals
+Tennessee Titans,35.0,32.0,Kansas City Chiefs
+San Francisco 49ers,24.0,27.0,Seattle Seahawks
+Cleveland Browns,21.0,7.0,Pittsburgh Steelers
+Baltimore Ravens,41.0,7.0,Houston Texans
+Carolina Panthers,3.0,29.0,Atlanta Falcons
+Detroit Lions,27.0,35.0,Dallas Cowboys
+Indianapolis Colts,33.0,13.0,Jacksonville Jaguars
+Los Angeles Rams,17.0,7.0,Chicago Bears
+Miami Dolphins,20.0,37.0,Buffalo Bills
+Minnesota Vikings,27.0,23.0,Denver Broncos
+Oakland Raiders,17.0,10.0,Cincinnati Bengals
+Philadelphia Eagles,10.0,17.0,New England Patriots
+San Francisco 49ers,36.0,26.0,Arizona Cardinals
+Tampa Bay Buccaneers,17.0,34.0,New Orleans Saints
+Washington Redskins,17.0,34.0,New York Jets
+Los Angeles Chargers,17.0,24.0,Kansas City Chiefs
+Houston Texans,20.0,17.0,Indianapolis Colts
+Atlanta Falcons,22.0,35.0,Tampa Bay Buccaneers
+Buffalo Bills,20.0,3.0,Denver Broncos
+Chicago Bears,19.0,14.0,New York Giants
+Cincinnati Bengals,10.0,16.0,Pittsburgh Steelers
+Cleveland Browns,41.0,24.0,Miami Dolphins
+New England Patriots,13.0,9.0,Dallas Cowboys
+New Orleans Saints,34.0,31.0,Carolina Panthers
+New York Jets,34.0,3.0,Oakland Raiders
+Philadelphia Eagles,9.0,17.0,Seattle Seahawks
+San Francisco 49ers,37.0,8.0,Green Bay Packers
+Tennessee Titans,42.0,20.0,Jacksonville Jaguars
+Washington Redskins,19.0,16.0,Detroit Lions
+Los Angeles Rams,6.0,45.0,Baltimore Ravens
+Atlanta Falcons,18.0,26.0,New Orleans Saints
+Dallas Cowboys,15.0,26.0,Buffalo Bills
+Detroit Lions,20.0,24.0,Chicago Bears
+Arizona Cardinals,7.0,34.0,Los Angeles Rams
+Baltimore Ravens,20.0,17.0,San Francisco 49ers
+Carolina Panthers,21.0,29.0,Washington Redskins
+Cincinnati Bengals,22.0,6.0,New York Jets
+Denver Broncos,23.0,20.0,Los Angeles Chargers
+Houston Texans,28.0,22.0,New England Patriots
+Indianapolis Colts,17.0,31.0,Tennessee Titans
+Jacksonville Jaguars,11.0,28.0,Tampa Bay Buccaneers
+Kansas City Chiefs,40.0,9.0,Oakland Raiders
+Miami Dolphins,37.0,31.0,Philadelphia Eagles
+New York Giants,13.0,31.0,Green Bay Packers
+Pittsburgh Steelers,20.0,13.0,Cleveland Browns
+Seattle Seahawks,37.0,30.0,Minnesota Vikings
+Chicago Bears,31.0,24.0,Dallas Cowboys
+Arizona Cardinals,17.0,23.0,Pittsburgh Steelers
+Atlanta Falcons,40.0,20.0,Carolina Panthers
+Buffalo Bills,17.0,24.0,Baltimore Ravens
+Cleveland Browns,27.0,19.0,Cincinnati Bengals
+Green Bay Packers,20.0,15.0,Washington Redskins
+Houston Texans,24.0,38.0,Denver Broncos
+Jacksonville Jaguars,10.0,45.0,Los Angeles Chargers
+Los Angeles Rams,28.0,12.0,Seattle Seahawks
+Minnesota Vikings,20.0,7.0,Detroit Lions
+New England Patriots,16.0,23.0,Kansas City Chiefs
+New Orleans Saints,46.0,48.0,San Francisco 49ers
+New York Jets,22.0,21.0,Miami Dolphins
+Oakland Raiders,21.0,42.0,Tennessee Titans
+Tampa Bay Buccaneers,38.0,35.0,Indianapolis Colts
+Philadelphia Eagles,23.0,17.0,New York Giants
+Baltimore Ravens,42.0,21.0,New York Jets
+Arizona Cardinals,38.0,24.0,Cleveland Browns
+Carolina Panthers,24.0,30.0,Seattle Seahawks
+Cincinnati Bengals,13.0,34.0,New England Patriots
+Dallas Cowboys,44.0,21.0,Los Angeles Rams
+Detroit Lions,17.0,38.0,Tampa Bay Buccaneers
+Green Bay Packers,21.0,13.0,Chicago Bears
+Kansas City Chiefs,23.0,3.0,Denver Broncos
+Los Angeles Chargers,10.0,39.0,Minnesota Vikings
+New York Giants,36.0,20.0,Miami Dolphins
+Oakland Raiders,16.0,20.0,Jacksonville Jaguars
+Pittsburgh Steelers,10.0,17.0,Buffalo Bills
+San Francisco 49ers,22.0,29.0,Atlanta Falcons
+Tennessee Titans,21.0,24.0,Houston Texans
+Washington Redskins,27.0,37.0,Philadelphia Eagles
+New Orleans Saints,34.0,7.0,Indianapolis Colts
+New England Patriots,24.0,17.0,Buffalo Bills
+San Francisco 49ers,34.0,31.0,Los Angeles Rams
+Tampa Bay Buccaneers,20.0,23.0,Houston Texans
+Atlanta Falcons,24.0,12.0,Jacksonville Jaguars
+Chicago Bears,3.0,26.0,Kansas City Chiefs
+Cleveland Browns,15.0,31.0,Baltimore Ravens
+Denver Broncos,27.0,17.0,Detroit Lions
+Indianapolis Colts,38.0,6.0,Carolina Panthers
+Los Angeles Chargers,17.0,24.0,Oakland Raiders
+Miami Dolphins,38.0,35.0,Cincinnati Bengals
+New York Jets,16.0,10.0,Pittsburgh Steelers
+Philadelphia Eagles,17.0,9.0,Dallas Cowboys
+Seattle Seahawks,13.0,27.0,Arizona Cardinals
+Tennessee Titans,28.0,38.0,New Orleans Saints
+Washington Redskins,35.0,41.0,New York Giants
+Minnesota Vikings,10.0,23.0,Green Bay Packers
+Baltimore Ravens,28.0,10.0,Pittsburgh Steelers
+Buffalo Bills,6.0,13.0,New York Jets
+Carolina Panthers,10.0,42.0,New Orleans Saints
+Cincinnati Bengals,33.0,23.0,Cleveland Browns
+Dallas Cowboys,47.0,16.0,Washington Redskins
+Denver Broncos,16.0,15.0,Oakland Raiders
+Detroit Lions,20.0,23.0,Green Bay Packers
+Houston Texans,14.0,35.0,Tennessee Titans
+Jacksonville Jaguars,38.0,20.0,Indianapolis Colts
+Kansas City Chiefs,31.0,21.0,Los Angeles Chargers
+Los Angeles Rams,31.0,24.0,Arizona Cardinals
+Minnesota Vikings,19.0,21.0,Chicago Bears
+New England Patriots,24.0,27.0,Miami Dolphins
+New York Giants,17.0,34.0,Philadelphia Eagles
+Seattle Seahawks,21.0,26.0,San Francisco 49ers
+Tampa Bay Buccaneers,22.0,28.0,Atlanta Falcons
+Houston Texans,22.0,19.0,Buffalo Bills
+New England Patriots,13.0,20.0,Tennessee Titans
+New Orleans Saints,20.0,26.0,Minnesota Vikings
+Philadelphia Eagles,9.0,17.0,Seattle Seahawks
+Baltimore Ravens,12.0,28.0,Tennessee Titans
+San Francisco 49ers,27.0,10.0,Minnesota Vikings
+Green Bay Packers,28.0,23.0,Seattle Seahawks
+Kansas City Chiefs,51.0,31.0,Houston Texans
+Kansas City Chiefs,35.0,24.0,Tennessee Titans
+San Francisco 49ers,37.0,20.0,Green Bay Packers
+Kansas City Chiefs,31.0,20.0,San Francisco 49ers
+Kansas City Chiefs,34.0,20.0,Houston Texans
+Atlanta Falcons,25.0,38.0,Seattle Seahawks
+Baltimore Ravens,38.0,6.0,Cleveland Browns
+Buffalo Bills,27.0,17.0,New York Jets
+Carolina Panthers,30.0,34.0,Las Vegas Raiders
+Cincinnati Bengals,13.0,16.0,Los Angeles Chargers
+Detroit Lions,23.0,27.0,Chicago Bears
+Jacksonville Jaguars,27.0,20.0,Indianapolis Colts
+Los Angeles Rams,20.0,17.0,Dallas Cowboys
+Minnesota Vikings,34.0,43.0,Green Bay Packers
+New England Patriots,21.0,11.0,Miami Dolphins
+New Orleans Saints,34.0,23.0,Tampa Bay Buccaneers
+San Francisco 49ers,20.0,24.0,Arizona Cardinals
+Washington Football Team,27.0,17.0,Philadelphia Eagles
+Denver Broncos,14.0,16.0,Tennessee Titans
+New York Giants,16.0,26.0,Pittsburgh Steelers
+Cleveland Browns,35.0,30.0,Cincinnati Bengals
+Arizona Cardinals,30.0,15.0,Washington Football Team
+Chicago Bears,17.0,13.0,New York Giants
+Dallas Cowboys,40.0,39.0,Atlanta Falcons
+Green Bay Packers,42.0,21.0,Detroit Lions
+Houston Texans,16.0,33.0,Baltimore Ravens
+Indianapolis Colts,28.0,11.0,Minnesota Vikings
+Los Angeles Chargers,20.0,23.0,Kansas City Chiefs
+Miami Dolphins,28.0,31.0,Buffalo Bills
+New York Jets,13.0,31.0,San Francisco 49ers
+Philadelphia Eagles,19.0,37.0,Los Angeles Rams
+Pittsburgh Steelers,26.0,21.0,Denver Broncos
+Seattle Seahawks,35.0,30.0,New England Patriots
+Tampa Bay Buccaneers,31.0,17.0,Carolina Panthers
+Tennessee Titans,33.0,30.0,Jacksonville Jaguars
+Las Vegas Raiders,34.0,24.0,New Orleans Saints
+Jacksonville Jaguars,13.0,31.0,Miami Dolphins
+Arizona Cardinals,23.0,26.0,Detroit Lions
+Atlanta Falcons,26.0,30.0,Chicago Bears
+Buffalo Bills,35.0,32.0,Los Angeles Rams
+Cleveland Browns,34.0,20.0,Washington Football Team
+Denver Broncos,10.0,28.0,Tampa Bay Buccaneers
+Indianapolis Colts,36.0,7.0,New York Jets
+Los Angeles Chargers,16.0,21.0,Carolina Panthers
+Minnesota Vikings,30.0,31.0,Tennessee Titans
+New England Patriots,36.0,20.0,Las Vegas Raiders
+New Orleans Saints,30.0,37.0,Green Bay Packers
+New York Giants,9.0,36.0,San Francisco 49ers
+Philadelphia Eagles,23.0,23.0,Cincinnati Bengals
+Pittsburgh Steelers,28.0,21.0,Houston Texans
+Seattle Seahawks,38.0,31.0,Dallas Cowboys
+Baltimore Ravens,20.0,34.0,Kansas City Chiefs
+New York Jets,28.0,37.0,Denver Broncos
+Carolina Panthers,31.0,21.0,Arizona Cardinals
+Chicago Bears,11.0,19.0,Indianapolis Colts
+Cincinnati Bengals,33.0,25.0,Jacksonville Jaguars
+Dallas Cowboys,38.0,49.0,Cleveland Browns
+Detroit Lions,29.0,35.0,New Orleans Saints
+Houston Texans,23.0,31.0,Minnesota Vikings
+Las Vegas Raiders,23.0,30.0,Buffalo Bills
+Los Angeles Rams,17.0,9.0,New York Giants
+Miami Dolphins,23.0,31.0,Seattle Seahawks
+San Francisco 49ers,20.0,25.0,Philadelphia Eagles
+Tampa Bay Buccaneers,38.0,31.0,Los Angeles Chargers
+Washington Football Team,17.0,31.0,Baltimore Ravens
+Green Bay Packers,30.0,16.0,Atlanta Falcons
+Kansas City Chiefs,26.0,10.0,New England Patriots
+Chicago Bears,20.0,19.0,Tampa Bay Buccaneers
+Atlanta Falcons,16.0,23.0,Carolina Panthers
+Baltimore Ravens,27.0,3.0,Cincinnati Bengals
+Cleveland Browns,32.0,23.0,Indianapolis Colts
+Dallas Cowboys,37.0,34.0,New York Giants
+Houston Texans,30.0,14.0,Jacksonville Jaguars
+Kansas City Chiefs,32.0,40.0,Las Vegas Raiders
+New York Jets,10.0,30.0,Arizona Cardinals
+Pittsburgh Steelers,38.0,29.0,Philadelphia Eagles
+San Francisco 49ers,17.0,43.0,Miami Dolphins
+Seattle Seahawks,27.0,26.0,Minnesota Vikings
+Washington Football Team,10.0,30.0,Los Angeles Rams
+New Orleans Saints,30.0,27.0,Los Angeles Chargers
+Tennessee Titans,42.0,16.0,Buffalo Bills
+Carolina Panthers,16.0,23.0,Chicago Bears
+Indianapolis Colts,31.0,27.0,Cincinnati Bengals
+Jacksonville Jaguars,16.0,34.0,Detroit Lions
+Miami Dolphins,24.0,0.0,New York Jets
+Minnesota Vikings,23.0,40.0,Atlanta Falcons
+New England Patriots,12.0,18.0,Denver Broncos
+New York Giants,20.0,19.0,Washington Football Team
+Philadelphia Eagles,28.0,30.0,Baltimore Ravens
+Pittsburgh Steelers,38.0,7.0,Cleveland Browns
+San Francisco 49ers,24.0,16.0,Los Angeles Rams
+Tampa Bay Buccaneers,38.0,10.0,Green Bay Packers
+Tennessee Titans,42.0,36.0,Houston Texans
+Buffalo Bills,17.0,26.0,Kansas City Chiefs
+Dallas Cowboys,10.0,38.0,Arizona Cardinals
+Philadelphia Eagles,22.0,21.0,New York Giants
+Arizona Cardinals,37.0,34.0,Seattle Seahawks
+Atlanta Falcons,22.0,23.0,Detroit Lions
+Cincinnati Bengals,34.0,37.0,Cleveland Browns
+Denver Broncos,16.0,43.0,Kansas City Chiefs
+Houston Texans,20.0,35.0,Green Bay Packers
+Las Vegas Raiders,20.0,45.0,Tampa Bay Buccaneers
+Los Angeles Chargers,39.0,29.0,Jacksonville Jaguars
+New England Patriots,6.0,33.0,San Francisco 49ers
+New Orleans Saints,27.0,24.0,Carolina Panthers
+New York Jets,10.0,18.0,Buffalo Bills
+Tennessee Titans,24.0,27.0,Pittsburgh Steelers
+Washington Football Team,25.0,3.0,Dallas Cowboys
+Los Angeles Rams,24.0,10.0,Chicago Bears
+Carolina Panthers,17.0,25.0,Atlanta Falcons
+Baltimore Ravens,24.0,28.0,Pittsburgh Steelers
+Buffalo Bills,24.0,21.0,New England Patriots
+Chicago Bears,23.0,26.0,New Orleans Saints
+Cincinnati Bengals,31.0,20.0,Tennessee Titans
+Cleveland Browns,6.0,16.0,Las Vegas Raiders
+Denver Broncos,31.0,30.0,Los Angeles Chargers
+Detroit Lions,21.0,41.0,Indianapolis Colts
+Green Bay Packers,22.0,28.0,Minnesota Vikings
+Kansas City Chiefs,35.0,9.0,New York Jets
+Miami Dolphins,28.0,17.0,Los Angeles Rams
+Philadelphia Eagles,23.0,9.0,Dallas Cowboys
+Seattle Seahawks,37.0,27.0,San Francisco 49ers
+New York Giants,23.0,25.0,Tampa Bay Buccaneers
+San Francisco 49ers,17.0,34.0,Green Bay Packers
+Arizona Cardinals,31.0,34.0,Miami Dolphins
+Atlanta Falcons,34.0,27.0,Denver Broncos
+Buffalo Bills,44.0,34.0,Seattle Seahawks
+Dallas Cowboys,19.0,24.0,Pittsburgh Steelers
+Indianapolis Colts,10.0,24.0,Baltimore Ravens
+Jacksonville Jaguars,25.0,27.0,Houston Texans
+Kansas City Chiefs,33.0,31.0,Carolina Panthers
+Los Angeles Chargers,26.0,31.0,Las Vegas Raiders
+Minnesota Vikings,34.0,20.0,Detroit Lions
+Tampa Bay Buccaneers,3.0,38.0,New Orleans Saints
+Tennessee Titans,24.0,17.0,Chicago Bears
+Washington Football Team,20.0,23.0,New York Giants
+New York Jets,27.0,30.0,New England Patriots
+Tennessee Titans,17.0,34.0,Indianapolis Colts
+Arizona Cardinals,32.0,30.0,Buffalo Bills
+Carolina Panthers,23.0,46.0,Tampa Bay Buccaneers
+Cleveland Browns,10.0,7.0,Houston Texans
+Detroit Lions,30.0,27.0,Washington Football Team
+Green Bay Packers,24.0,20.0,Jacksonville Jaguars
+Las Vegas Raiders,37.0,12.0,Denver Broncos
+Los Angeles Rams,23.0,16.0,Seattle Seahawks
+Miami Dolphins,29.0,21.0,Los Angeles Chargers
+New England Patriots,23.0,17.0,Baltimore Ravens
+New Orleans Saints,27.0,13.0,San Francisco 49ers
+New York Giants,27.0,17.0,Philadelphia Eagles
+Pittsburgh Steelers,36.0,10.0,Cincinnati Bengals
+Chicago Bears,13.0,19.0,Minnesota Vikings
+Seattle Seahawks,28.0,21.0,Arizona Cardinals
+Baltimore Ravens,24.0,30.0,Tennessee Titans
+Carolina Panthers,20.0,0.0,Detroit Lions
+Cleveland Browns,22.0,17.0,Philadelphia Eagles
+Denver Broncos,20.0,13.0,Miami Dolphins
+Houston Texans,27.0,20.0,New England Patriots
+Indianapolis Colts,34.0,31.0,Green Bay Packers
+Jacksonville Jaguars,3.0,27.0,Pittsburgh Steelers
+Las Vegas Raiders,31.0,35.0,Kansas City Chiefs
+Los Angeles Chargers,34.0,28.0,New York Jets
+Minnesota Vikings,28.0,31.0,Dallas Cowboys
+New Orleans Saints,24.0,9.0,Atlanta Falcons
+Washington Football Team,20.0,9.0,Cincinnati Bengals
+Tampa Bay Buccaneers,24.0,27.0,Los Angeles Rams
+Dallas Cowboys,16.0,41.0,Washington Football Team
+Detroit Lions,25.0,41.0,Houston Texans
+Atlanta Falcons,43.0,6.0,Las Vegas Raiders
+Buffalo Bills,27.0,17.0,Los Angeles Chargers
+Cincinnati Bengals,17.0,19.0,New York Giants
+Denver Broncos,3.0,31.0,New Orleans Saints
+Green Bay Packers,41.0,25.0,Chicago Bears
+Indianapolis Colts,26.0,45.0,Tennessee Titans
+Jacksonville Jaguars,25.0,27.0,Cleveland Browns
+Los Angeles Rams,20.0,23.0,San Francisco 49ers
+Minnesota Vikings,28.0,27.0,Carolina Panthers
+New England Patriots,20.0,17.0,Arizona Cardinals
+New York Jets,3.0,20.0,Miami Dolphins
+Tampa Bay Buccaneers,24.0,27.0,Kansas City Chiefs
+Philadelphia Eagles,17.0,23.0,Seattle Seahawks
+Pittsburgh Steelers,19.0,14.0,Baltimore Ravens
+Arizona Cardinals,28.0,38.0,Los Angeles Rams
+Atlanta Falcons,16.0,21.0,New Orleans Saints
+Chicago Bears,30.0,34.0,Detroit Lions
+Green Bay Packers,30.0,16.0,Philadelphia Eagles
+Houston Texans,20.0,26.0,Indianapolis Colts
+Kansas City Chiefs,22.0,16.0,Denver Broncos
+Los Angeles Chargers,0.0,45.0,New England Patriots
+Miami Dolphins,19.0,7.0,Cincinnati Bengals
+Minnesota Vikings,27.0,24.0,Jacksonville Jaguars
+New York Jets,28.0,31.0,Las Vegas Raiders
+Seattle Seahawks,12.0,17.0,New York Giants
+Tennessee Titans,35.0,41.0,Cleveland Browns
+Pittsburgh Steelers,17.0,23.0,Washington Football Team
+San Francisco 49ers,24.0,34.0,Buffalo Bills
+Baltimore Ravens,34.0,17.0,Dallas Cowboys
+Los Angeles Rams,24.0,3.0,New England Patriots
+Buffalo Bills,26.0,15.0,Pittsburgh Steelers
+Carolina Panthers,27.0,32.0,Denver Broncos
+Chicago Bears,36.0,7.0,Houston Texans
+Cincinnati Bengals,7.0,30.0,Dallas Cowboys
+Detroit Lions,24.0,31.0,Green Bay Packers
+Jacksonville Jaguars,10.0,31.0,Tennessee Titans
+Las Vegas Raiders,27.0,44.0,Indianapolis Colts
+Los Angeles Chargers,20.0,17.0,Atlanta Falcons
+Miami Dolphins,27.0,33.0,Kansas City Chiefs
+New York Giants,7.0,26.0,Arizona Cardinals
+Philadelphia Eagles,24.0,21.0,New Orleans Saints
+San Francisco 49ers,15.0,23.0,Washington Football Team
+Seattle Seahawks,40.0,3.0,New York Jets
+Tampa Bay Buccaneers,26.0,14.0,Minnesota Vikings
+Cleveland Browns,42.0,47.0,Baltimore Ravens
+Las Vegas Raiders,27.0,30.0,Los Angeles Chargers
+Denver Broncos,19.0,48.0,Buffalo Bills
+Green Bay Packers,24.0,16.0,Carolina Panthers
+Arizona Cardinals,33.0,26.0,Philadelphia Eagles
+Atlanta Falcons,27.0,31.0,Tampa Bay Buccaneers
+Baltimore Ravens,40.0,14.0,Jacksonville Jaguars
+Dallas Cowboys,41.0,33.0,San Francisco 49ers
+Indianapolis Colts,27.0,20.0,Houston Texans
+Los Angeles Rams,20.0,23.0,New York Jets
+Miami Dolphins,22.0,12.0,New England Patriots
+Minnesota Vikings,27.0,33.0,Chicago Bears
+New Orleans Saints,29.0,32.0,Kansas City Chiefs
+New York Giants,6.0,20.0,Cleveland Browns
+Tennessee Titans,46.0,25.0,Detroit Lions
+Washington Football Team,15.0,20.0,Seattle Seahawks
+Cincinnati Bengals,27.0,17.0,Pittsburgh Steelers
+New Orleans Saints,52.0,33.0,Minnesota Vikings
+Arizona Cardinals,12.0,20.0,San Francisco 49ers
+Detroit Lions,7.0,47.0,Tampa Bay Buccaneers
+Las Vegas Raiders,25.0,26.0,Miami Dolphins
+Baltimore Ravens,27.0,13.0,New York Giants
+Dallas Cowboys,37.0,17.0,Philadelphia Eagles
+Green Bay Packers,40.0,14.0,Tennessee Titans
+Houston Texans,31.0,37.0,Cincinnati Bengals
+Jacksonville Jaguars,17.0,41.0,Chicago Bears
+Kansas City Chiefs,17.0,14.0,Atlanta Falcons
+Los Angeles Chargers,19.0,16.0,Denver Broncos
+New York Jets,23.0,16.0,Cleveland Browns
+Pittsburgh Steelers,28.0,24.0,Indianapolis Colts
+Seattle Seahawks,20.0,9.0,Los Angeles Rams
+Washington Football Team,13.0,20.0,Carolina Panthers
+New England Patriots,9.0,38.0,Buffalo Bills
+Buffalo Bills,56.0,26.0,Miami Dolphins
+Carolina Panthers,7.0,33.0,New Orleans Saints
+Chicago Bears,16.0,35.0,Green Bay Packers
+Cincinnati Bengals,3.0,38.0,Baltimore Ravens
+Cleveland Browns,24.0,22.0,Pittsburgh Steelers
+Denver Broncos,31.0,32.0,Las Vegas Raiders
+Detroit Lions,35.0,37.0,Minnesota Vikings
+Houston Texans,38.0,41.0,Tennessee Titans
+Indianapolis Colts,28.0,14.0,Jacksonville Jaguars
+Kansas City Chiefs,21.0,38.0,Los Angeles Chargers
+Los Angeles Rams,18.0,7.0,Arizona Cardinals
+New England Patriots,28.0,14.0,New York Jets
+New York Giants,23.0,19.0,Dallas Cowboys
+Philadelphia Eagles,14.0,20.0,Washington Football Team
+San Francisco 49ers,23.0,26.0,Seattle Seahawks
+Tampa Bay Buccaneers,44.0,27.0,Atlanta Falcons
+Buffalo Bills,27.0,24.0,Indianapolis Colts
+Seattle Seahawks,20.0,30.0,Los Angeles Rams
+Washington Football Team,23.0,31.0,Tampa Bay Buccaneers
+New Orleans Saints,21.0,9.0,Chicago Bears
+Pittsburgh Steelers,37.0,48.0,Cleveland Browns
+Tennessee Titans,13.0,20.0,Baltimore Ravens
+Buffalo Bills,17.0,3.0,Baltimore Ravens
+Green Bay Packers,32.0,18.0,Los Angeles Rams
+Kansas City Chiefs,22.0,17.0,Cleveland Browns
+New Orleans Saints,20.0,30.0,Tampa Bay Buccaneers
+Green Bay Packers,26.0,31.0,Tampa Bay Buccaneers
+Kansas City Chiefs,38.0,24.0,Buffalo Bills
+Tampa Bay Buccaneers,31.0,9.0,Kansas City Chiefs
+Tampa Bay Buccaneers,31.0,29.0,Dallas Cowboys
+Atlanta Falcons,6.0,32.0,Philadelphia Eagles
+Buffalo Bills,16.0,23.0,Pittsburgh Steelers
+Carolina Panthers,19.0,14.0,New York Jets
+Cincinnati Bengals,27.0,24.0,Minnesota Vikings
+Detroit Lions,33.0,41.0,San Francisco 49ers
+Houston Texans,37.0,21.0,Jacksonville Jaguars
+Indianapolis Colts,16.0,28.0,Seattle Seahawks
+Kansas City Chiefs,33.0,29.0,Cleveland Browns
+Los Angeles Rams,34.0,14.0,Chicago Bears
+New England Patriots,16.0,17.0,Miami Dolphins
+New Orleans Saints,38.0,3.0,Green Bay Packers
+New York Giants,13.0,27.0,Denver Broncos
+Tennessee Titans,13.0,38.0,Arizona Cardinals
+Washington Football Team,16.0,20.0,Los Angeles Chargers
+Las Vegas Raiders,33.0,27.0,Baltimore Ravens
+Washington Football Team,30.0,29.0,New York Giants
+Arizona Cardinals,34.0,33.0,Minnesota Vikings
+Baltimore Ravens,36.0,35.0,Kansas City Chiefs
+Carolina Panthers,26.0,7.0,New Orleans Saints
+Chicago Bears,20.0,17.0,Cincinnati Bengals
+Cleveland Browns,31.0,21.0,Houston Texans
+Indianapolis Colts,24.0,27.0,Los Angeles Rams
+Jacksonville Jaguars,13.0,23.0,Denver Broncos
+Los Angeles Chargers,17.0,20.0,Dallas Cowboys
+Miami Dolphins,0.0,35.0,Buffalo Bills
+New York Jets,6.0,25.0,New England Patriots
+Philadelphia Eagles,11.0,17.0,San Francisco 49ers
+Pittsburgh Steelers,17.0,26.0,Las Vegas Raiders
+Seattle Seahawks,30.0,33.0,Tennessee Titans
+Tampa Bay Buccaneers,48.0,25.0,Atlanta Falcons
+Green Bay Packers,35.0,17.0,Detroit Lions
+Houston Texans,9.0,24.0,Carolina Panthers
+Buffalo Bills,43.0,21.0,Washington Football Team
+Cleveland Browns,26.0,6.0,Chicago Bears
+Denver Broncos,26.0,0.0,New York Jets
+Detroit Lions,17.0,19.0,Baltimore Ravens
+Jacksonville Jaguars,19.0,31.0,Arizona Cardinals
+Kansas City Chiefs,24.0,30.0,Los Angeles Chargers
+Las Vegas Raiders,31.0,28.0,Miami Dolphins
+Los Angeles Rams,34.0,24.0,Tampa Bay Buccaneers
+Minnesota Vikings,30.0,17.0,Seattle Seahawks
+New England Patriots,13.0,28.0,New Orleans Saints
+New York Giants,14.0,17.0,Atlanta Falcons
+Pittsburgh Steelers,10.0,24.0,Cincinnati Bengals
+San Francisco 49ers,28.0,30.0,Green Bay Packers
+Tennessee Titans,25.0,16.0,Indianapolis Colts
+Dallas Cowboys,41.0,21.0,Philadelphia Eagles
+Cincinnati Bengals,24.0,21.0,Jacksonville Jaguars
+Atlanta Falcons,30.0,34.0,Washington Football Team
+Buffalo Bills,40.0,0.0,Houston Texans
+Chicago Bears,24.0,14.0,Detroit Lions
+Dallas Cowboys,36.0,28.0,Carolina Panthers
+Denver Broncos,7.0,23.0,Baltimore Ravens
+Green Bay Packers,27.0,17.0,Pittsburgh Steelers
+Los Angeles Rams,20.0,37.0,Arizona Cardinals
+Miami Dolphins,17.0,27.0,Indianapolis Colts
+Minnesota Vikings,7.0,14.0,Cleveland Browns
+New England Patriots,17.0,19.0,Tampa Bay Buccaneers
+New Orleans Saints,21.0,27.0,New York Giants
+New York Jets,27.0,24.0,Tennessee Titans
+Philadelphia Eagles,30.0,42.0,Kansas City Chiefs
+San Francisco 49ers,21.0,28.0,Seattle Seahawks
+Los Angeles Chargers,28.0,14.0,Las Vegas Raiders
+Seattle Seahawks,17.0,26.0,Los Angeles Rams
+Arizona Cardinals,17.0,10.0,San Francisco 49ers
+Atlanta Falcons,27.0,20.0,New York Jets
+Carolina Panthers,18.0,21.0,Philadelphia Eagles
+Cincinnati Bengals,22.0,25.0,Green Bay Packers
+Dallas Cowboys,44.0,20.0,New York Giants
+Houston Texans,22.0,25.0,New England Patriots
+Jacksonville Jaguars,19.0,37.0,Tennessee Titans
+Kansas City Chiefs,20.0,38.0,Buffalo Bills
+Las Vegas Raiders,9.0,20.0,Chicago Bears
+Los Angeles Chargers,47.0,42.0,Cleveland Browns
+Minnesota Vikings,19.0,17.0,Detroit Lions
+Pittsburgh Steelers,27.0,19.0,Denver Broncos
+Tampa Bay Buccaneers,45.0,17.0,Miami Dolphins
+Washington Football Team,22.0,33.0,New Orleans Saints
+Baltimore Ravens,31.0,25.0,Indianapolis Colts
+Philadelphia Eagles,22.0,28.0,Tampa Bay Buccaneers
+Baltimore Ravens,34.0,6.0,Los Angeles Chargers
+Carolina Panthers,28.0,34.0,Minnesota Vikings
+Chicago Bears,14.0,24.0,Green Bay Packers
+Cleveland Browns,14.0,37.0,Arizona Cardinals
+Denver Broncos,24.0,34.0,Las Vegas Raiders
+Detroit Lions,11.0,34.0,Cincinnati Bengals
+Indianapolis Colts,31.0,3.0,Houston Texans
+Jacksonville Jaguars,23.0,20.0,Miami Dolphins
+New England Patriots,29.0,35.0,Dallas Cowboys
+New York Giants,11.0,38.0,Los Angeles Rams
+Pittsburgh Steelers,23.0,20.0,Seattle Seahawks
+Washington Football Team,13.0,31.0,Kansas City Chiefs
+Tennessee Titans,34.0,31.0,Buffalo Bills
+Cleveland Browns,17.0,14.0,Denver Broncos
+Arizona Cardinals,31.0,5.0,Houston Texans
+Baltimore Ravens,17.0,41.0,Cincinnati Bengals
+Green Bay Packers,24.0,10.0,Washington Football Team
+Las Vegas Raiders,33.0,22.0,Philadelphia Eagles
+Los Angeles Rams,28.0,19.0,Detroit Lions
+Miami Dolphins,28.0,30.0,Atlanta Falcons
+New England Patriots,54.0,13.0,New York Jets
+New York Giants,25.0,3.0,Carolina Panthers
+San Francisco 49ers,18.0,30.0,Indianapolis Colts
+Tampa Bay Buccaneers,38.0,3.0,Chicago Bears
+Tennessee Titans,27.0,3.0,Kansas City Chiefs
+Seattle Seahawks,10.0,13.0,New Orleans Saints
+Arizona Cardinals,21.0,24.0,Green Bay Packers
+Atlanta Falcons,13.0,19.0,Carolina Panthers
+Buffalo Bills,26.0,11.0,Miami Dolphins
+Chicago Bears,22.0,33.0,San Francisco 49ers
+Cleveland Browns,10.0,15.0,Pittsburgh Steelers
+Denver Broncos,17.0,10.0,Washington Football Team
+Detroit Lions,6.0,44.0,Philadelphia Eagles
+Houston Texans,22.0,38.0,Los Angeles Rams
+Indianapolis Colts,31.0,34.0,Tennessee Titans
+Los Angeles Chargers,24.0,27.0,New England Patriots
+Minnesota Vikings,16.0,20.0,Dallas Cowboys
+New Orleans Saints,36.0,27.0,Tampa Bay Buccaneers
+New York Jets,34.0,31.0,Cincinnati Bengals
+Seattle Seahawks,31.0,7.0,Jacksonville Jaguars
+Kansas City Chiefs,20.0,17.0,New York Giants
+Indianapolis Colts,45.0,30.0,New York Jets
+Baltimore Ravens,34.0,31.0,Minnesota Vikings
+Carolina Panthers,6.0,24.0,New England Patriots
+Cincinnati Bengals,16.0,41.0,Cleveland Browns
+Dallas Cowboys,16.0,30.0,Denver Broncos
+Jacksonville Jaguars,9.0,6.0,Buffalo Bills
+Kansas City Chiefs,13.0,7.0,Green Bay Packers
+Los Angeles Rams,16.0,28.0,Tennessee Titans
+Miami Dolphins,17.0,9.0,Houston Texans
+New Orleans Saints,25.0,27.0,Atlanta Falcons
+New York Giants,23.0,16.0,Las Vegas Raiders
+Philadelphia Eagles,24.0,27.0,Los Angeles Chargers
+San Francisco 49ers,17.0,31.0,Arizona Cardinals
+Pittsburgh Steelers,29.0,27.0,Chicago Bears
+Miami Dolphins,22.0,10.0,Baltimore Ravens
+Arizona Cardinals,10.0,34.0,Carolina Panthers
+Dallas Cowboys,43.0,3.0,Atlanta Falcons
+Denver Broncos,13.0,30.0,Philadelphia Eagles
+Green Bay Packers,17.0,0.0,Seattle Seahawks
+Indianapolis Colts,23.0,17.0,Jacksonville Jaguars
+Las Vegas Raiders,14.0,41.0,Kansas City Chiefs
+Los Angeles Chargers,20.0,27.0,Minnesota Vikings
+New England Patriots,45.0,7.0,Cleveland Browns
+New York Jets,17.0,45.0,Buffalo Bills
+Pittsburgh Steelers,16.0,16.0,Detroit Lions
+Tennessee Titans,23.0,21.0,New Orleans Saints
+Washington Football Team,29.0,19.0,Tampa Bay Buccaneers
+San Francisco 49ers,31.0,10.0,Los Angeles Rams
+Atlanta Falcons,0.0,25.0,New England Patriots
+Buffalo Bills,15.0,41.0,Indianapolis Colts
+Carolina Panthers,21.0,27.0,Washington Football Team
+Chicago Bears,13.0,16.0,Baltimore Ravens
+Cleveland Browns,13.0,10.0,Detroit Lions
+Jacksonville Jaguars,10.0,30.0,San Francisco 49ers
+Kansas City Chiefs,19.0,9.0,Dallas Cowboys
+Las Vegas Raiders,13.0,32.0,Cincinnati Bengals
+Los Angeles Chargers,41.0,37.0,Pittsburgh Steelers
+Minnesota Vikings,34.0,31.0,Green Bay Packers
+New York Jets,17.0,24.0,Miami Dolphins
+Philadelphia Eagles,40.0,29.0,New Orleans Saints
+Seattle Seahawks,13.0,23.0,Arizona Cardinals
+Tennessee Titans,13.0,22.0,Houston Texans
+Tampa Bay Buccaneers,30.0,10.0,New York Giants
+Dallas Cowboys,33.0,36.0,Las Vegas Raiders
+Detroit Lions,14.0,16.0,Chicago Bears
+New Orleans Saints,6.0,31.0,Buffalo Bills
+Baltimore Ravens,16.0,10.0,Cleveland Browns
+Cincinnati Bengals,41.0,10.0,Pittsburgh Steelers
+Denver Broncos,28.0,13.0,Los Angeles Chargers
+Green Bay Packers,36.0,28.0,Los Angeles Rams
+Houston Texans,14.0,21.0,New York Jets
+Indianapolis Colts,31.0,38.0,Tampa Bay Buccaneers
+Jacksonville Jaguars,14.0,21.0,Atlanta Falcons
+Miami Dolphins,33.0,10.0,Carolina Panthers
+New England Patriots,36.0,13.0,Tennessee Titans
+New York Giants,13.0,7.0,Philadelphia Eagles
+San Francisco 49ers,34.0,26.0,Minnesota Vikings
+Washington Football Team,17.0,15.0,Seattle Seahawks
+New Orleans Saints,17.0,27.0,Dallas Cowboys
+Atlanta Falcons,17.0,30.0,Tampa Bay Buccaneers
+Chicago Bears,22.0,33.0,Arizona Cardinals
+Cincinnati Bengals,22.0,41.0,Los Angeles Chargers
+Detroit Lions,29.0,27.0,Minnesota Vikings
+Houston Texans,0.0,31.0,Indianapolis Colts
+Kansas City Chiefs,22.0,9.0,Denver Broncos
+Las Vegas Raiders,15.0,17.0,Washington Football Team
+Los Angeles Rams,37.0,7.0,Jacksonville Jaguars
+Miami Dolphins,20.0,9.0,New York Giants
+New York Jets,18.0,33.0,Philadelphia Eagles
+Pittsburgh Steelers,20.0,19.0,Baltimore Ravens
+Seattle Seahawks,30.0,23.0,San Francisco 49ers
+Buffalo Bills,10.0,14.0,New England Patriots
+Minnesota Vikings,36.0,28.0,Pittsburgh Steelers
+Carolina Panthers,21.0,29.0,Atlanta Falcons
+Cincinnati Bengals,23.0,26.0,San Francisco 49ers
+Cleveland Browns,24.0,22.0,Baltimore Ravens
+Denver Broncos,38.0,10.0,Detroit Lions
+Green Bay Packers,45.0,30.0,Chicago Bears
+Houston Texans,13.0,33.0,Seattle Seahawks
+Kansas City Chiefs,48.0,9.0,Las Vegas Raiders
+Los Angeles Chargers,37.0,21.0,New York Giants
+New York Jets,9.0,30.0,New Orleans Saints
+Tampa Bay Buccaneers,33.0,27.0,Buffalo Bills
+Tennessee Titans,20.0,0.0,Jacksonville Jaguars
+Washington Football Team,20.0,27.0,Dallas Cowboys
+Arizona Cardinals,23.0,30.0,Los Angeles Rams
+Los Angeles Chargers,28.0,34.0,Kansas City Chiefs
+Indianapolis Colts,27.0,17.0,New England Patriots
+Baltimore Ravens,30.0,31.0,Green Bay Packers
+Buffalo Bills,31.0,14.0,Carolina Panthers
+Denver Broncos,10.0,15.0,Cincinnati Bengals
+Detroit Lions,30.0,12.0,Arizona Cardinals
+Jacksonville Jaguars,16.0,30.0,Houston Texans
+Miami Dolphins,31.0,24.0,New York Jets
+New York Giants,6.0,21.0,Dallas Cowboys
+Pittsburgh Steelers,19.0,13.0,Tennessee Titans
+San Francisco 49ers,31.0,13.0,Atlanta Falcons
+Tampa Bay Buccaneers,0.0,9.0,New Orleans Saints
+Chicago Bears,9.0,17.0,Minnesota Vikings
+Cleveland Browns,14.0,16.0,Las Vegas Raiders
+Los Angeles Rams,20.0,10.0,Seattle Seahawks
+Philadelphia Eagles,27.0,17.0,Washington Football Team
+Tennessee Titans,20.0,17.0,San Francisco 49ers
+Arizona Cardinals,16.0,22.0,Indianapolis Colts
+Green Bay Packers,24.0,22.0,Cleveland Browns
+Atlanta Falcons,20.0,16.0,Detroit Lions
+Carolina Panthers,6.0,32.0,Tampa Bay Buccaneers
+Cincinnati Bengals,41.0,21.0,Baltimore Ravens
+Dallas Cowboys,56.0,14.0,Washington Football Team
+Houston Texans,41.0,29.0,Los Angeles Chargers
+Kansas City Chiefs,36.0,10.0,Pittsburgh Steelers
+Las Vegas Raiders,17.0,13.0,Denver Broncos
+Minnesota Vikings,23.0,30.0,Los Angeles Rams
+New England Patriots,21.0,33.0,Buffalo Bills
+New York Jets,26.0,21.0,Jacksonville Jaguars
+Philadelphia Eagles,34.0,10.0,New York Giants
+Seattle Seahawks,24.0,25.0,Chicago Bears
+New Orleans Saints,3.0,20.0,Miami Dolphins
+Baltimore Ravens,19.0,20.0,Los Angeles Rams
+Buffalo Bills,29.0,15.0,Atlanta Falcons
+Chicago Bears,29.0,3.0,New York Giants
+Cincinnati Bengals,34.0,31.0,Kansas City Chiefs
+Dallas Cowboys,22.0,25.0,Arizona Cardinals
+Green Bay Packers,37.0,10.0,Minnesota Vikings
+Indianapolis Colts,20.0,23.0,Las Vegas Raiders
+Los Angeles Chargers,34.0,13.0,Denver Broncos
+New England Patriots,50.0,10.0,Jacksonville Jaguars
+New Orleans Saints,18.0,10.0,Carolina Panthers
+New York Jets,24.0,28.0,Tampa Bay Buccaneers
+San Francisco 49ers,23.0,7.0,Houston Texans
+Seattle Seahawks,51.0,29.0,Detroit Lions
+Tennessee Titans,34.0,3.0,Miami Dolphins
+Washington Football Team,16.0,20.0,Philadelphia Eagles
+Pittsburgh Steelers,26.0,14.0,Cleveland Browns
+Denver Broncos,24.0,28.0,Kansas City Chiefs
+Philadelphia Eagles,26.0,51.0,Dallas Cowboys
+Arizona Cardinals,30.0,38.0,Seattle Seahawks
+Atlanta Falcons,20.0,30.0,New Orleans Saints
+Baltimore Ravens,13.0,16.0,Pittsburgh Steelers
+Buffalo Bills,27.0,10.0,New York Jets
+Cleveland Browns,21.0,16.0,Cincinnati Bengals
+Detroit Lions,37.0,30.0,Green Bay Packers
+Houston Texans,25.0,28.0,Tennessee Titans
+Jacksonville Jaguars,26.0,11.0,Indianapolis Colts
+Las Vegas Raiders,35.0,32.0,Los Angeles Chargers
+Los Angeles Rams,24.0,27.0,San Francisco 49ers
+Miami Dolphins,33.0,24.0,New England Patriots
+Minnesota Vikings,31.0,17.0,Chicago Bears
+New York Giants,7.0,22.0,Washington Football Team
+Tampa Bay Buccaneers,41.0,17.0,Carolina Panthers
+Buffalo Bills,47.0,17.0,New England Patriots
+Cincinnati Bengals,26.0,19.0,Las Vegas Raiders
+Dallas Cowboys,17.0,23.0,San Francisco 49ers
+Kansas City Chiefs,42.0,21.0,Pittsburgh Steelers
+Tampa Bay Buccaneers,31.0,15.0,Philadelphia Eagles
+Los Angeles Rams,34.0,11.0,Arizona Cardinals
+Green Bay Packers,10.0,13.0,San Francisco 49ers
+Tennessee Titans,16.0,19.0,Cincinnati Bengals
+Kansas City Chiefs,42.0,36.0,Buffalo Bills
+Tampa Bay Buccaneers,27.0,30.0,Los Angeles Rams
+Kansas City Chiefs,24.0,27.0,Cincinnati Bengals
+Los Angeles Rams,20.0,17.0,San Francisco 49ers
+Cincinnati Bengals,20.0,23.0,Los Angeles Rams
+Los Angeles Rams,10.0,31.0,Buffalo Bills
+Arizona Cardinals,21.0,44.0,Kansas City Chiefs
+Atlanta Falcons,26.0,27.0,New Orleans Saints
+Carolina Panthers,24.0,26.0,Cleveland Browns
+Chicago Bears,19.0,10.0,San Francisco 49ers
+Cincinnati Bengals,20.0,23.0,Pittsburgh Steelers
+Dallas Cowboys,3.0,19.0,Tampa Bay Buccaneers
+Detroit Lions,35.0,38.0,Philadelphia Eagles
+Houston Texans,20.0,20.0,Indianapolis Colts
+Los Angeles Chargers,24.0,19.0,Las Vegas Raiders
+Miami Dolphins,20.0,7.0,New England Patriots
+Minnesota Vikings,23.0,7.0,Green Bay Packers
+New York Jets,9.0,24.0,Baltimore Ravens
+Tennessee Titans,20.0,21.0,New York Giants
+Washington Commanders,28.0,22.0,Jacksonville Jaguars
+Seattle Seahawks,17.0,16.0,Denver Broncos
+Kansas City Chiefs,27.0,24.0,Los Angeles Chargers
+Baltimore Ravens,38.0,42.0,Miami Dolphins
+Cleveland Browns,30.0,31.0,New York Jets
+Dallas Cowboys,20.0,17.0,Cincinnati Bengals
+Denver Broncos,16.0,9.0,Houston Texans
+Detroit Lions,36.0,27.0,Washington Commanders
+Green Bay Packers,27.0,10.0,Chicago Bears
+Jacksonville Jaguars,24.0,0.0,Indianapolis Colts
+Las Vegas Raiders,23.0,29.0,Arizona Cardinals
+Los Angeles Rams,31.0,27.0,Atlanta Falcons
+New Orleans Saints,10.0,20.0,Tampa Bay Buccaneers
+New York Giants,19.0,16.0,Carolina Panthers
+Pittsburgh Steelers,14.0,17.0,New England Patriots
+San Francisco 49ers,27.0,7.0,Seattle Seahawks
+Buffalo Bills,41.0,7.0,Tennessee Titans
+Philadelphia Eagles,24.0,7.0,Minnesota Vikings
+Cleveland Browns,29.0,17.0,Pittsburgh Steelers
+Arizona Cardinals,12.0,20.0,Los Angeles Rams
+Carolina Panthers,22.0,14.0,New Orleans Saints
+Chicago Bears,23.0,20.0,Houston Texans
+Denver Broncos,11.0,10.0,San Francisco 49ers
+Indianapolis Colts,20.0,17.0,Kansas City Chiefs
+Los Angeles Chargers,10.0,38.0,Jacksonville Jaguars
+Miami Dolphins,21.0,19.0,Buffalo Bills
+Minnesota Vikings,28.0,24.0,Detroit Lions
+New England Patriots,26.0,37.0,Baltimore Ravens
+New York Jets,12.0,27.0,Cincinnati Bengals
+Seattle Seahawks,23.0,27.0,Atlanta Falcons
+Tampa Bay Buccaneers,12.0,14.0,Green Bay Packers
+Tennessee Titans,24.0,22.0,Las Vegas Raiders
+Washington Commanders,8.0,24.0,Philadelphia Eagles
+New York Giants,16.0,23.0,Dallas Cowboys
+Cincinnati Bengals,27.0,15.0,Miami Dolphins
+Atlanta Falcons,23.0,20.0,Cleveland Browns
+Baltimore Ravens,20.0,23.0,Buffalo Bills
+Carolina Panthers,16.0,26.0,Arizona Cardinals
+Dallas Cowboys,25.0,10.0,Washington Commanders
+Detroit Lions,45.0,48.0,Seattle Seahawks
+Green Bay Packers,27.0,24.0,New England Patriots
+Houston Texans,24.0,34.0,Los Angeles Chargers
+Indianapolis Colts,17.0,24.0,Tennessee Titans
+Las Vegas Raiders,32.0,23.0,Denver Broncos
+New Orleans Saints,25.0,28.0,Minnesota Vikings
+New York Giants,20.0,12.0,Chicago Bears
+Philadelphia Eagles,29.0,21.0,Jacksonville Jaguars
+Pittsburgh Steelers,20.0,24.0,New York Jets
+Tampa Bay Buccaneers,31.0,41.0,Kansas City Chiefs
+San Francisco 49ers,24.0,9.0,Los Angeles Rams
+Denver Broncos,9.0,12.0,Indianapolis Colts
+Arizona Cardinals,17.0,20.0,Philadelphia Eagles
+Baltimore Ravens,19.0,17.0,Cincinnati Bengals
+Buffalo Bills,38.0,3.0,Pittsburgh Steelers
+Carolina Panthers,15.0,37.0,San Francisco 49ers
+Cleveland Browns,28.0,30.0,Los Angeles Chargers
+Green Bay Packers,22.0,27.0,New York Giants
+Jacksonville Jaguars,6.0,13.0,Houston Texans
+Los Angeles Rams,10.0,22.0,Dallas Cowboys
+Minnesota Vikings,29.0,22.0,Chicago Bears
+New England Patriots,29.0,0.0,Detroit Lions
+New Orleans Saints,39.0,32.0,Seattle Seahawks
+New York Jets,40.0,17.0,Miami Dolphins
+Tampa Bay Buccaneers,21.0,15.0,Atlanta Falcons
+Washington Commanders,17.0,21.0,Tennessee Titans
+Kansas City Chiefs,30.0,29.0,Las Vegas Raiders
+Chicago Bears,7.0,12.0,Washington Commanders
+Atlanta Falcons,28.0,14.0,San Francisco 49ers
+Cleveland Browns,15.0,38.0,New England Patriots
+Green Bay Packers,10.0,27.0,New York Jets
+Indianapolis Colts,34.0,27.0,Jacksonville Jaguars
+Kansas City Chiefs,20.0,24.0,Buffalo Bills
+Los Angeles Rams,24.0,10.0,Carolina Panthers
+Miami Dolphins,16.0,24.0,Minnesota Vikings
+New Orleans Saints,26.0,30.0,Cincinnati Bengals
+New York Giants,24.0,20.0,Baltimore Ravens
+Philadelphia Eagles,26.0,17.0,Dallas Cowboys
+Pittsburgh Steelers,20.0,18.0,Tampa Bay Buccaneers
+Seattle Seahawks,19.0,9.0,Arizona Cardinals
+Los Angeles Chargers,19.0,16.0,Denver Broncos
+Arizona Cardinals,42.0,34.0,New Orleans Saints
+Baltimore Ravens,23.0,20.0,Cleveland Browns
+Carolina Panthers,21.0,3.0,Tampa Bay Buccaneers
+Cincinnati Bengals,35.0,17.0,Atlanta Falcons
+Dallas Cowboys,24.0,6.0,Detroit Lions
+Denver Broncos,9.0,16.0,New York Jets
+Jacksonville Jaguars,17.0,23.0,New York Giants
+Las Vegas Raiders,38.0,20.0,Houston Texans
+Los Angeles Chargers,23.0,37.0,Seattle Seahawks
+Miami Dolphins,16.0,10.0,Pittsburgh Steelers
+San Francisco 49ers,23.0,44.0,Kansas City Chiefs
+Tennessee Titans,19.0,10.0,Indianapolis Colts
+Washington Commanders,23.0,21.0,Green Bay Packers
+New England Patriots,14.0,33.0,Chicago Bears
+Tampa Bay Buccaneers,22.0,27.0,Baltimore Ravens
+Atlanta Falcons,37.0,34.0,Carolina Panthers
+Buffalo Bills,27.0,17.0,Green Bay Packers
+Dallas Cowboys,49.0,29.0,Chicago Bears
+Detroit Lions,27.0,31.0,Miami Dolphins
+Houston Texans,10.0,17.0,Tennessee Titans
+Indianapolis Colts,16.0,17.0,Washington Commanders
+Jacksonville Jaguars,17.0,21.0,Denver Broncos
+Los Angeles Rams,14.0,31.0,San Francisco 49ers
+Minnesota Vikings,34.0,26.0,Arizona Cardinals
+New Orleans Saints,24.0,0.0,Las Vegas Raiders
+New York Jets,17.0,22.0,New England Patriots
+Philadelphia Eagles,35.0,13.0,Pittsburgh Steelers
+Seattle Seahawks,27.0,13.0,New York Giants
+Cleveland Browns,32.0,13.0,Cincinnati Bengals
+Houston Texans,17.0,29.0,Philadelphia Eagles
+Arizona Cardinals,21.0,31.0,Seattle Seahawks
+Atlanta Falcons,17.0,20.0,Los Angeles Chargers
+Chicago Bears,32.0,35.0,Miami Dolphins
+Cincinnati Bengals,42.0,21.0,Carolina Panthers
+Detroit Lions,15.0,9.0,Green Bay Packers
+Jacksonville Jaguars,27.0,20.0,Las Vegas Raiders
+Kansas City Chiefs,20.0,17.0,Tennessee Titans
+New England Patriots,26.0,3.0,Indianapolis Colts
+New York Jets,20.0,17.0,Buffalo Bills
+Tampa Bay Buccaneers,16.0,13.0,Los Angeles Rams
+Washington Commanders,17.0,20.0,Minnesota Vikings
+New Orleans Saints,13.0,27.0,Baltimore Ravens
+Carolina Panthers,25.0,15.0,Atlanta Falcons
+Buffalo Bills,30.0,33.0,Minnesota Vikings
+Chicago Bears,30.0,31.0,Detroit Lions
+Green Bay Packers,31.0,28.0,Dallas Cowboys
+Kansas City Chiefs,27.0,17.0,Jacksonville Jaguars
+Las Vegas Raiders,20.0,25.0,Indianapolis Colts
+Los Angeles Rams,17.0,27.0,Arizona Cardinals
+Miami Dolphins,39.0,17.0,Cleveland Browns
+New York Giants,24.0,16.0,Houston Texans
+Pittsburgh Steelers,20.0,10.0,New Orleans Saints
+San Francisco 49ers,22.0,16.0,Los Angeles Chargers
+Tampa Bay Buccaneers,21.0,16.0,Seattle Seahawks
+Tennessee Titans,17.0,10.0,Denver Broncos
+Philadelphia Eagles,21.0,32.0,Washington Commanders
+Green Bay Packers,17.0,27.0,Tennessee Titans
+Atlanta Falcons,27.0,24.0,Chicago Bears
+Baltimore Ravens,13.0,3.0,Carolina Panthers
+Buffalo Bills,31.0,23.0,Cleveland Browns
+Denver Broncos,16.0,22.0,Las Vegas Raiders
+Houston Texans,10.0,23.0,Washington Commanders
+Indianapolis Colts,16.0,17.0,Philadelphia Eagles
+Los Angeles Chargers,27.0,30.0,Kansas City Chiefs
+Minnesota Vikings,3.0,40.0,Dallas Cowboys
+New England Patriots,10.0,3.0,New York Jets
+New Orleans Saints,27.0,20.0,Los Angeles Rams
+New York Giants,18.0,31.0,Detroit Lions
+Pittsburgh Steelers,30.0,37.0,Cincinnati Bengals
+Arizona Cardinals,10.0,38.0,San Francisco 49ers
+Dallas Cowboys,28.0,20.0,New York Giants
+Detroit Lions,25.0,28.0,Buffalo Bills
+Minnesota Vikings,33.0,26.0,New England Patriots
+Arizona Cardinals,24.0,25.0,Los Angeles Chargers
+Carolina Panthers,23.0,10.0,Denver Broncos
+Cleveland Browns,23.0,17.0,Tampa Bay Buccaneers
+Jacksonville Jaguars,28.0,27.0,Baltimore Ravens
+Kansas City Chiefs,26.0,10.0,Los Angeles Rams
+Miami Dolphins,30.0,15.0,Houston Texans
+New York Jets,31.0,10.0,Chicago Bears
+Philadelphia Eagles,40.0,33.0,Green Bay Packers
+San Francisco 49ers,13.0,0.0,New Orleans Saints
+Seattle Seahawks,34.0,40.0,Las Vegas Raiders
+Tennessee Titans,16.0,20.0,Cincinnati Bengals
+Washington Commanders,19.0,13.0,Atlanta Falcons
+Indianapolis Colts,17.0,24.0,Pittsburgh Steelers
+New England Patriots,10.0,24.0,Buffalo Bills
+Atlanta Falcons,16.0,19.0,Pittsburgh Steelers
+Baltimore Ravens,10.0,9.0,Denver Broncos
+Chicago Bears,19.0,28.0,Green Bay Packers
+Cincinnati Bengals,27.0,24.0,Kansas City Chiefs
+Dallas Cowboys,54.0,19.0,Indianapolis Colts
+Detroit Lions,40.0,14.0,Jacksonville Jaguars
+Houston Texans,14.0,27.0,Cleveland Browns
+Las Vegas Raiders,27.0,20.0,Los Angeles Chargers
+Los Angeles Rams,23.0,27.0,Seattle Seahawks
+Minnesota Vikings,27.0,22.0,New York Jets
+New York Giants,20.0,20.0,Washington Commanders
+Philadelphia Eagles,35.0,10.0,Tennessee Titans
+San Francisco 49ers,33.0,17.0,Miami Dolphins
+Tampa Bay Buccaneers,17.0,16.0,New Orleans Saints
+Los Angeles Rams,17.0,16.0,Las Vegas Raiders
+Buffalo Bills,20.0,12.0,New York Jets
+Cincinnati Bengals,23.0,10.0,Cleveland Browns
+Dallas Cowboys,27.0,23.0,Houston Texans
+Denver Broncos,28.0,34.0,Kansas City Chiefs
+Detroit Lions,34.0,23.0,Minnesota Vikings
+Los Angeles Chargers,23.0,17.0,Miami Dolphins
+New York Giants,22.0,48.0,Philadelphia Eagles
+Pittsburgh Steelers,14.0,16.0,Baltimore Ravens
+San Francisco 49ers,35.0,7.0,Tampa Bay Buccaneers
+Seattle Seahawks,24.0,30.0,Carolina Panthers
+Tennessee Titans,22.0,36.0,Jacksonville Jaguars
+Arizona Cardinals,13.0,27.0,New England Patriots
+Seattle Seahawks,13.0,21.0,San Francisco 49ers
+Buffalo Bills,32.0,29.0,Miami Dolphins
+Cleveland Browns,13.0,3.0,Baltimore Ravens
+Minnesota Vikings,39.0,36.0,Indianapolis Colts
+Carolina Panthers,16.0,24.0,Pittsburgh Steelers
+Chicago Bears,20.0,25.0,Philadelphia Eagles
+Denver Broncos,24.0,15.0,Arizona Cardinals
+Houston Texans,24.0,30.0,Kansas City Chiefs
+Jacksonville Jaguars,40.0,34.0,Dallas Cowboys
+Las Vegas Raiders,30.0,24.0,New England Patriots
+Los Angeles Chargers,17.0,14.0,Tennessee Titans
+New Orleans Saints,21.0,18.0,Atlanta Falcons
+New York Jets,17.0,20.0,Detroit Lions
+Tampa Bay Buccaneers,23.0,34.0,Cincinnati Bengals
+Washington Commanders,12.0,20.0,New York Giants
+Green Bay Packers,24.0,12.0,Los Angeles Rams
+New York Jets,3.0,19.0,Jacksonville Jaguars
+Baltimore Ravens,17.0,9.0,Atlanta Falcons
+Carolina Panthers,37.0,23.0,Detroit Lions
+Chicago Bears,13.0,35.0,Buffalo Bills
+Cleveland Browns,10.0,17.0,New Orleans Saints
+Dallas Cowboys,40.0,34.0,Philadelphia Eagles
+Kansas City Chiefs,24.0,10.0,Seattle Seahawks
+Minnesota Vikings,27.0,24.0,New York Giants
+New England Patriots,18.0,22.0,Cincinnati Bengals
+Pittsburgh Steelers,13.0,10.0,Las Vegas Raiders
+San Francisco 49ers,37.0,20.0,Washington Commanders
+Tennessee Titans,14.0,19.0,Houston Texans
+Arizona Cardinals,16.0,19.0,Tampa Bay Buccaneers
+Los Angeles Rams,51.0,14.0,Denver Broncos
+Miami Dolphins,20.0,26.0,Green Bay Packers
+Indianapolis Colts,3.0,20.0,Los Angeles Chargers
+Tennessee Titans,13.0,27.0,Dallas Cowboys
+Atlanta Falcons,20.0,19.0,Arizona Cardinals
+Baltimore Ravens,13.0,16.0,Pittsburgh Steelers
+Detroit Lions,41.0,10.0,Chicago Bears
+Green Bay Packers,41.0,17.0,Minnesota Vikings
+Houston Texans,3.0,31.0,Jacksonville Jaguars
+Kansas City Chiefs,27.0,24.0,Denver Broncos
+Las Vegas Raiders,34.0,37.0,San Francisco 49ers
+Los Angeles Chargers,31.0,10.0,Los Angeles Rams
+New England Patriots,23.0,21.0,Miami Dolphins
+New York Giants,38.0,10.0,Indianapolis Colts
+Philadelphia Eagles,10.0,20.0,New Orleans Saints
+Seattle Seahawks,23.0,6.0,New York Jets
+Tampa Bay Buccaneers,30.0,24.0,Carolina Panthers
+Washington Commanders,10.0,24.0,Cleveland Browns
+Jacksonville Jaguars,20.0,16.0,Tennessee Titans
+Las Vegas Raiders,13.0,31.0,Kansas City Chiefs
+Atlanta Falcons,30.0,17.0,Tampa Bay Buccaneers
+Buffalo Bills,35.0,23.0,New England Patriots
+Chicago Bears,13.0,29.0,Minnesota Vikings
+Cincinnati Bengals,27.0,16.0,Baltimore Ravens
+Denver Broncos,31.0,28.0,Los Angeles Chargers
+Green Bay Packers,16.0,20.0,Detroit Lions
+Indianapolis Colts,31.0,32.0,Houston Texans
+Miami Dolphins,11.0,6.0,New York Jets
+New Orleans Saints,7.0,10.0,Carolina Panthers
+Philadelphia Eagles,22.0,16.0,New York Giants
+Pittsburgh Steelers,28.0,14.0,Cleveland Browns
+San Francisco 49ers,38.0,13.0,Arizona Cardinals
+Seattle Seahawks,19.0,16.0,Los Angeles Rams
+Washington Commanders,26.0,6.0,Dallas Cowboys
+Jacksonville Jaguars,31.0,30.0,Los Angeles Chargers
+San Francisco 49ers,41.0,23.0,Seattle Seahawks
+Buffalo Bills,34.0,31.0,Miami Dolphins
+Cincinnati Bengals,24.0,17.0,Baltimore Ravens
+Minnesota Vikings,24.0,31.0,New York Giants
+Tampa Bay Buccaneers,14.0,31.0,Dallas Cowboys
+Kansas City Chiefs,27.0,20.0,Jacksonville Jaguars
+Philadelphia Eagles,38.0,7.0,New York Giants
+Buffalo Bills,10.0,27.0,Cincinnati Bengals
+San Francisco 49ers,19.0,12.0,Dallas Cowboys
+Kansas City Chiefs,23.0,20.0,Cincinnati Bengals
+Philadelphia Eagles,31.0,7.0,San Francisco 49ers
+Philadelphia Eagles,35.0,38.0,Kansas City Chiefs
+Kansas City Chiefs,20.0,21.0,Detroit Lions
+Atlanta Falcons,24.0,10.0,Carolina Panthers
+Baltimore Ravens,25.0,9.0,Houston Texans
+Chicago Bears,20.0,38.0,Green Bay Packers
+Cleveland Browns,24.0,3.0,Cincinnati Bengals
+Denver Broncos,16.0,17.0,Las Vegas Raiders
+Indianapolis Colts,21.0,31.0,Jacksonville Jaguars
+Los Angeles Chargers,34.0,36.0,Miami Dolphins
+Minnesota Vikings,17.0,20.0,Tampa Bay Buccaneers
+New England Patriots,20.0,25.0,Philadelphia Eagles
+New Orleans Saints,16.0,15.0,Tennessee Titans
+New York Giants,0.0,40.0,Dallas Cowboys
+Pittsburgh Steelers,7.0,30.0,San Francisco 49ers
+Seattle Seahawks,13.0,30.0,Los Angeles Rams
+Washington Commanders,20.0,16.0,Arizona Cardinals
+New York Jets,22.0,16.0,Buffalo Bills
+Philadelphia Eagles,34.0,28.0,Minnesota Vikings
+Arizona Cardinals,28.0,31.0,New York Giants
+Atlanta Falcons,25.0,24.0,Green Bay Packers
+Buffalo Bills,38.0,10.0,Las Vegas Raiders
+Cincinnati Bengals,24.0,27.0,Baltimore Ravens
+Dallas Cowboys,30.0,10.0,New York Jets
+Denver Broncos,33.0,35.0,Washington Commanders
+Detroit Lions,31.0,37.0,Seattle Seahawks
+Houston Texans,20.0,31.0,Indianapolis Colts
+Jacksonville Jaguars,9.0,17.0,Kansas City Chiefs
+Los Angeles Rams,23.0,30.0,San Francisco 49ers
+New England Patriots,17.0,24.0,Miami Dolphins
+Tampa Bay Buccaneers,27.0,17.0,Chicago Bears
+Tennessee Titans,27.0,24.0,Los Angeles Chargers
+Carolina Panthers,17.0,20.0,New Orleans Saints
+Pittsburgh Steelers,26.0,22.0,Cleveland Browns
+San Francisco 49ers,30.0,12.0,New York Giants
+Arizona Cardinals,28.0,16.0,Dallas Cowboys
+Baltimore Ravens,19.0,22.0,Indianapolis Colts
+Cleveland Browns,27.0,3.0,Tennessee Titans
+Detroit Lions,20.0,6.0,Atlanta Falcons
+Green Bay Packers,18.0,17.0,New Orleans Saints
+Jacksonville Jaguars,17.0,37.0,Houston Texans
+Kansas City Chiefs,41.0,10.0,Chicago Bears
+Las Vegas Raiders,18.0,23.0,Pittsburgh Steelers
+Miami Dolphins,70.0,20.0,Denver Broncos
+Minnesota Vikings,24.0,28.0,Los Angeles Chargers
+New York Jets,10.0,15.0,New England Patriots
+Seattle Seahawks,37.0,27.0,Carolina Panthers
+Washington Commanders,3.0,37.0,Buffalo Bills
+Cincinnati Bengals,19.0,16.0,Los Angeles Rams
+Tampa Bay Buccaneers,11.0,25.0,Philadelphia Eagles
+Green Bay Packers,20.0,34.0,Detroit Lions
+Buffalo Bills,48.0,20.0,Miami Dolphins
+Carolina Panthers,13.0,21.0,Minnesota Vikings
+Chicago Bears,28.0,31.0,Denver Broncos
+Cleveland Browns,3.0,28.0,Baltimore Ravens
+Dallas Cowboys,38.0,3.0,New England Patriots
+Houston Texans,30.0,6.0,Pittsburgh Steelers
+Indianapolis Colts,23.0,29.0,Los Angeles Rams
+Jacksonville Jaguars,23.0,7.0,Atlanta Falcons
+Los Angeles Chargers,24.0,17.0,Las Vegas Raiders
+New Orleans Saints,9.0,26.0,Tampa Bay Buccaneers
+New York Jets,20.0,23.0,Kansas City Chiefs
+Philadelphia Eagles,34.0,31.0,Washington Commanders
+San Francisco 49ers,35.0,16.0,Arizona Cardinals
+Tennessee Titans,27.0,3.0,Cincinnati Bengals
+New York Giants,3.0,24.0,Seattle Seahawks
+Washington Commanders,20.0,40.0,Chicago Bears
+Arizona Cardinals,20.0,34.0,Cincinnati Bengals
+Atlanta Falcons,21.0,19.0,Houston Texans
+Buffalo Bills,20.0,25.0,Jacksonville Jaguars
+Denver Broncos,21.0,31.0,New York Jets
+Detroit Lions,42.0,24.0,Carolina Panthers
+Indianapolis Colts,23.0,16.0,Tennessee Titans
+Los Angeles Rams,14.0,23.0,Philadelphia Eagles
+Miami Dolphins,31.0,16.0,New York Giants
+Minnesota Vikings,20.0,27.0,Kansas City Chiefs
+New England Patriots,0.0,34.0,New Orleans Saints
+Pittsburgh Steelers,17.0,10.0,Baltimore Ravens
+San Francisco 49ers,42.0,10.0,Dallas Cowboys
+Las Vegas Raiders,17.0,13.0,Green Bay Packers
+Kansas City Chiefs,19.0,8.0,Denver Broncos
+Atlanta Falcons,16.0,24.0,Washington Commanders
+Buffalo Bills,14.0,9.0,New York Giants
+Chicago Bears,13.0,19.0,Minnesota Vikings
+Cincinnati Bengals,17.0,13.0,Seattle Seahawks
+Cleveland Browns,19.0,17.0,San Francisco 49ers
+Houston Texans,20.0,13.0,New Orleans Saints
+Jacksonville Jaguars,37.0,20.0,Indianapolis Colts
+Las Vegas Raiders,21.0,17.0,New England Patriots
+Los Angeles Rams,26.0,9.0,Arizona Cardinals
+Miami Dolphins,42.0,21.0,Carolina Panthers
+New York Jets,20.0,14.0,Philadelphia Eagles
+Tampa Bay Buccaneers,6.0,20.0,Detroit Lions
+Tennessee Titans,16.0,24.0,Baltimore Ravens
+Los Angeles Chargers,17.0,20.0,Dallas Cowboys
+New Orleans Saints,24.0,31.0,Jacksonville Jaguars
+Baltimore Ravens,38.0,6.0,Detroit Lions
+Chicago Bears,30.0,12.0,Las Vegas Raiders
+Denver Broncos,19.0,17.0,Green Bay Packers
+Indianapolis Colts,38.0,39.0,Cleveland Browns
+Kansas City Chiefs,31.0,17.0,Los Angeles Chargers
+Los Angeles Rams,17.0,24.0,Pittsburgh Steelers
+New England Patriots,29.0,25.0,Buffalo Bills
+New York Giants,14.0,7.0,Washington Commanders
+Philadelphia Eagles,31.0,17.0,Miami Dolphins
+Seattle Seahawks,20.0,10.0,Arizona Cardinals
+Tampa Bay Buccaneers,13.0,16.0,Atlanta Falcons
+Minnesota Vikings,22.0,17.0,San Francisco 49ers
+Buffalo Bills,24.0,18.0,Tampa Bay Buccaneers
+Arizona Cardinals,24.0,31.0,Baltimore Ravens
+Carolina Panthers,15.0,13.0,Houston Texans
+Dallas Cowboys,43.0,20.0,Los Angeles Rams
+Denver Broncos,24.0,9.0,Kansas City Chiefs
+Green Bay Packers,10.0,24.0,Minnesota Vikings
+Indianapolis Colts,27.0,38.0,New Orleans Saints
+Los Angeles Chargers,30.0,13.0,Chicago Bears
+Miami Dolphins,31.0,17.0,New England Patriots
+New York Giants,10.0,13.0,New York Jets
+Pittsburgh Steelers,10.0,20.0,Jacksonville Jaguars
+San Francisco 49ers,17.0,31.0,Cincinnati Bengals
+Seattle Seahawks,24.0,20.0,Cleveland Browns
+Tennessee Titans,28.0,23.0,Atlanta Falcons
+Washington Commanders,31.0,38.0,Philadelphia Eagles
+Detroit Lions,26.0,14.0,Las Vegas Raiders
+Pittsburgh Steelers,20.0,16.0,Tennessee Titans
+Atlanta Falcons,28.0,31.0,Minnesota Vikings
+Baltimore Ravens,37.0,3.0,Seattle Seahawks
+Carolina Panthers,13.0,27.0,Indianapolis Colts
+Cincinnati Bengals,24.0,18.0,Buffalo Bills
+Cleveland Browns,27.0,0.0,Arizona Cardinals
+Green Bay Packers,20.0,3.0,Los Angeles Rams
+Houston Texans,39.0,37.0,Tampa Bay Buccaneers
+Kansas City Chiefs,21.0,14.0,Miami Dolphins
+Las Vegas Raiders,30.0,6.0,New York Giants
+New England Patriots,17.0,20.0,Washington Commanders
+New Orleans Saints,24.0,17.0,Chicago Bears
+Philadelphia Eagles,28.0,23.0,Dallas Cowboys
+New York Jets,6.0,27.0,Los Angeles Chargers
+Chicago Bears,16.0,13.0,Carolina Panthers
+Arizona Cardinals,25.0,23.0,Atlanta Falcons
+Baltimore Ravens,31.0,33.0,Cleveland Browns
+Cincinnati Bengals,27.0,30.0,Houston Texans
+Dallas Cowboys,49.0,17.0,New York Giants
+Jacksonville Jaguars,3.0,34.0,San Francisco 49ers
+Las Vegas Raiders,16.0,12.0,New York Jets
+Los Angeles Chargers,38.0,41.0,Detroit Lions
+Minnesota Vikings,27.0,19.0,New Orleans Saints
+New England Patriots,6.0,10.0,Indianapolis Colts
+Pittsburgh Steelers,23.0,19.0,Green Bay Packers
+Seattle Seahawks,29.0,26.0,Washington Commanders
+Tampa Bay Buccaneers,20.0,6.0,Tennessee Titans
+Buffalo Bills,22.0,24.0,Denver Broncos
+Baltimore Ravens,34.0,20.0,Cincinnati Bengals
+Buffalo Bills,32.0,6.0,New York Jets
+Carolina Panthers,10.0,33.0,Dallas Cowboys
+Cleveland Browns,13.0,10.0,Pittsburgh Steelers
+Denver Broncos,21.0,20.0,Minnesota Vikings
+Detroit Lions,31.0,26.0,Chicago Bears
+Green Bay Packers,23.0,20.0,Los Angeles Chargers
+Houston Texans,21.0,16.0,Arizona Cardinals
+Jacksonville Jaguars,34.0,14.0,Tennessee Titans
+Los Angeles Rams,17.0,16.0,Seattle Seahawks
+Miami Dolphins,20.0,13.0,Las Vegas Raiders
+San Francisco 49ers,27.0,14.0,Tampa Bay Buccaneers
+Washington Commanders,19.0,31.0,New York Giants
+Kansas City Chiefs,17.0,21.0,Philadelphia Eagles
+Dallas Cowboys,45.0,10.0,Washington Commanders
+Detroit Lions,22.0,29.0,Green Bay Packers
+Seattle Seahawks,13.0,31.0,San Francisco 49ers
+New York Jets,13.0,34.0,Miami Dolphins
+Arizona Cardinals,14.0,37.0,Los Angeles Rams
+Atlanta Falcons,24.0,15.0,New Orleans Saints
+Cincinnati Bengals,10.0,16.0,Pittsburgh Steelers
+Denver Broncos,29.0,12.0,Cleveland Browns
+Houston Texans,21.0,24.0,Jacksonville Jaguars
+Indianapolis Colts,27.0,20.0,Tampa Bay Buccaneers
+Las Vegas Raiders,17.0,31.0,Kansas City Chiefs
+Los Angeles Chargers,10.0,20.0,Baltimore Ravens
+New York Giants,10.0,7.0,New England Patriots
+Philadelphia Eagles,37.0,34.0,Buffalo Bills
+Tennessee Titans,17.0,10.0,Carolina Panthers
+Minnesota Vikings,10.0,12.0,Chicago Bears
+Dallas Cowboys,41.0,35.0,Seattle Seahawks
+Green Bay Packers,27.0,19.0,Kansas City Chiefs
+Houston Texans,22.0,17.0,Denver Broncos
+Los Angeles Rams,36.0,19.0,Cleveland Browns
+New England Patriots,0.0,6.0,Los Angeles Chargers
+New Orleans Saints,28.0,33.0,Detroit Lions
+New York Jets,8.0,13.0,Atlanta Falcons
+Philadelphia Eagles,19.0,42.0,San Francisco 49ers
+Pittsburgh Steelers,10.0,24.0,Arizona Cardinals
+Tampa Bay Buccaneers,14.0,10.0,Carolina Panthers
+Tennessee Titans,28.0,31.0,Indianapolis Colts
+Washington Commanders,15.0,45.0,Miami Dolphins
+Jacksonville Jaguars,31.0,34.0,Cincinnati Bengals
+Pittsburgh Steelers,18.0,21.0,New England Patriots
+Atlanta Falcons,25.0,29.0,Tampa Bay Buccaneers
+Baltimore Ravens,37.0,31.0,Los Angeles Rams
+Chicago Bears,28.0,13.0,Detroit Lions
+Cincinnati Bengals,34.0,14.0,Indianapolis Colts
+Cleveland Browns,31.0,27.0,Jacksonville Jaguars
+Dallas Cowboys,33.0,13.0,Philadelphia Eagles
+Kansas City Chiefs,17.0,20.0,Buffalo Bills
+Las Vegas Raiders,0.0,3.0,Minnesota Vikings
+Los Angeles Chargers,7.0,24.0,Denver Broncos
+New Orleans Saints,28.0,6.0,Carolina Panthers
+New York Jets,30.0,6.0,Houston Texans
+San Francisco 49ers,28.0,16.0,Seattle Seahawks
+Miami Dolphins,27.0,28.0,Tennessee Titans
+New York Giants,24.0,22.0,Green Bay Packers
+Las Vegas Raiders,63.0,21.0,Los Angeles Chargers
+Cincinnati Bengals,27.0,24.0,Minnesota Vikings
+Detroit Lions,42.0,17.0,Denver Broncos
+Indianapolis Colts,30.0,13.0,Pittsburgh Steelers
+Arizona Cardinals,29.0,45.0,San Francisco 49ers
+Buffalo Bills,31.0,10.0,Dallas Cowboys
+Carolina Panthers,9.0,7.0,Atlanta Falcons
+Cleveland Browns,20.0,17.0,Chicago Bears
+Green Bay Packers,20.0,34.0,Tampa Bay Buccaneers
+Jacksonville Jaguars,7.0,23.0,Baltimore Ravens
+Los Angeles Rams,28.0,20.0,Washington Commanders
+Miami Dolphins,30.0,0.0,New York Jets
+New England Patriots,17.0,27.0,Kansas City Chiefs
+New Orleans Saints,24.0,6.0,New York Giants
+Tennessee Titans,16.0,19.0,Houston Texans
+Seattle Seahawks,20.0,17.0,Philadelphia Eagles
+Los Angeles Rams,30.0,22.0,New Orleans Saints
+Los Angeles Chargers,22.0,24.0,Buffalo Bills
+Pittsburgh Steelers,34.0,11.0,Cincinnati Bengals
+Atlanta Falcons,29.0,10.0,Indianapolis Colts
+Carolina Panthers,30.0,33.0,Green Bay Packers
+Chicago Bears,27.0,16.0,Arizona Cardinals
+Denver Broncos,23.0,26.0,New England Patriots
+Houston Texans,22.0,36.0,Cleveland Browns
+Miami Dolphins,22.0,20.0,Dallas Cowboys
+Minnesota Vikings,24.0,30.0,Detroit Lions
+New York Jets,30.0,28.0,Washington Commanders
+Tampa Bay Buccaneers,30.0,12.0,Jacksonville Jaguars
+Tennessee Titans,17.0,20.0,Seattle Seahawks
+Kansas City Chiefs,14.0,20.0,Las Vegas Raiders
+Philadelphia Eagles,33.0,25.0,New York Giants
+San Francisco 49ers,19.0,33.0,Baltimore Ravens
+Cleveland Browns,37.0,20.0,New York Jets
+Dallas Cowboys,20.0,19.0,Detroit Lions
+Baltimore Ravens,56.0,19.0,Miami Dolphins
+Buffalo Bills,27.0,21.0,New England Patriots
+Chicago Bears,37.0,17.0,Atlanta Falcons
+Denver Broncos,16.0,9.0,Los Angeles Chargers
+Houston Texans,26.0,3.0,Tennessee Titans
+Indianapolis Colts,23.0,20.0,Las Vegas Raiders
+Jacksonville Jaguars,26.0,0.0,Carolina Panthers
+Kansas City Chiefs,25.0,17.0,Cincinnati Bengals
+Minnesota Vikings,10.0,33.0,Green Bay Packers
+New York Giants,25.0,26.0,Los Angeles Rams
+Philadelphia Eagles,31.0,35.0,Arizona Cardinals
+Seattle Seahawks,23.0,30.0,Pittsburgh Steelers
+Tampa Bay Buccaneers,13.0,23.0,New Orleans Saints
+Washington Commanders,10.0,27.0,San Francisco 49ers
+Baltimore Ravens,10.0,17.0,Pittsburgh Steelers
+Arizona Cardinals,20.0,21.0,Seattle Seahawks
+Carolina Panthers,0.0,9.0,Tampa Bay Buccaneers
+Cincinnati Bengals,31.0,14.0,Cleveland Browns
+Detroit Lions,30.0,20.0,Minnesota Vikings
+Green Bay Packers,17.0,9.0,Chicago Bears
+Indianapolis Colts,19.0,23.0,Houston Texans
+Las Vegas Raiders,27.0,14.0,Denver Broncos
+Los Angeles Chargers,12.0,13.0,Kansas City Chiefs
+Miami Dolphins,14.0,21.0,Buffalo Bills
+New England Patriots,3.0,17.0,New York Jets
+New Orleans Saints,48.0,17.0,Atlanta Falcons
+New York Giants,27.0,10.0,Philadelphia Eagles
+San Francisco 49ers,20.0,21.0,Los Angeles Rams
+Tennessee Titans,28.0,20.0,Jacksonville Jaguars
+Washington Commanders,10.0,38.0,Dallas Cowboys
+Houston Texans,45.0,14.0,Cleveland Browns
+Kansas City Chiefs,26.0,7.0,Miami Dolphins
+Dallas Cowboys,32.0,48.0,Green Bay Packers
+Detroit Lions,24.0,23.0,Los Angeles Rams
+Buffalo Bills,31.0,17.0,Pittsburgh Steelers
+Tampa Bay Buccaneers,32.0,9.0,Philadelphia Eagles
+Baltimore Ravens,34.0,10.0,Houston Texans
+San Francisco 49ers,24.0,21.0,Green Bay Packers
+Buffalo Bills,24.0,27.0,Kansas City Chiefs
+Detroit Lions,31.0,23.0,Tampa Bay Buccaneers
+Baltimore Ravens,10.0,17.0,Kansas City Chiefs
+San Francisco 49ers,34.0,31.0,Detroit Lions
+Kansas City Chiefs,25.0,22.0,San Francisco 49ers
+Kansas City Chiefs,27.0,20.0,Baltimore Ravens
+Philadelphia Eagles,34.0,29.0,Green Bay Packers
+Atlanta Falcons,10.0,18.0,Pittsburgh Steelers
+Buffalo Bills,34.0,28.0,Arizona Cardinals
+Chicago Bears,24.0,17.0,Tennessee Titans
+Cincinnati Bengals,10.0,16.0,New England Patriots
+Cleveland Browns,17.0,33.0,Dallas Cowboys
+Detroit Lions,26.0,20.0,Los Angeles Rams
+Indianapolis Colts,27.0,29.0,Houston Texans
+Los Angeles Chargers,22.0,10.0,Las Vegas Raiders
+Miami Dolphins,20.0,17.0,Jacksonville Jaguars
+New Orleans Saints,47.0,10.0,Carolina Panthers
+New York Giants,6.0,28.0,Minnesota Vikings
+Seattle Seahawks,26.0,20.0,Denver Broncos
+Tampa Bay Buccaneers,37.0,20.0,Washington Commanders
+San Francisco 49ers,32.0,19.0,New York Jets
+Miami Dolphins,10.0,31.0,Buffalo Bills
+Arizona Cardinals,41.0,10.0,Los Angeles Rams
+Baltimore Ravens,23.0,26.0,Las Vegas Raiders
+Carolina Panthers,3.0,26.0,Los Angeles Chargers
+Dallas Cowboys,19.0,44.0,New Orleans Saints
+Denver Broncos,6.0,13.0,Pittsburgh Steelers
+Detroit Lions,16.0,20.0,Tampa Bay Buccaneers
+Green Bay Packers,16.0,10.0,Indianapolis Colts
+Houston Texans,19.0,13.0,Chicago Bears
+Jacksonville Jaguars,13.0,18.0,Cleveland Browns
+Kansas City Chiefs,26.0,25.0,Cincinnati Bengals
+Minnesota Vikings,23.0,17.0,San Francisco 49ers
+New England Patriots,20.0,23.0,Seattle Seahawks
+Tennessee Titans,17.0,24.0,New York Jets
+Washington Commanders,21.0,18.0,New York Giants
+Philadelphia Eagles,21.0,22.0,Atlanta Falcons
+New York Jets,24.0,3.0,New England Patriots
+Arizona Cardinals,13.0,20.0,Detroit Lions
+Atlanta Falcons,17.0,22.0,Kansas City Chiefs
+Cleveland Browns,15.0,21.0,New York Giants
+Dallas Cowboys,25.0,28.0,Baltimore Ravens
+Indianapolis Colts,21.0,16.0,Chicago Bears
+Las Vegas Raiders,22.0,36.0,Carolina Panthers
+Los Angeles Rams,27.0,24.0,San Francisco 49ers
+Minnesota Vikings,34.0,7.0,Houston Texans
+New Orleans Saints,12.0,15.0,Philadelphia Eagles
+Pittsburgh Steelers,20.0,10.0,Los Angeles Chargers
+Seattle Seahawks,24.0,3.0,Miami Dolphins
+Tampa Bay Buccaneers,7.0,26.0,Denver Broncos
+Tennessee Titans,14.0,30.0,Green Bay Packers
+Buffalo Bills,47.0,10.0,Jacksonville Jaguars
+Cincinnati Bengals,33.0,38.0,Washington Commanders
+New York Giants,15.0,20.0,Dallas Cowboys
+Arizona Cardinals,14.0,42.0,Washington Commanders
+Atlanta Falcons,26.0,24.0,New Orleans Saints
+Baltimore Ravens,35.0,10.0,Buffalo Bills
+Carolina Panthers,24.0,34.0,Cincinnati Bengals
+Chicago Bears,24.0,18.0,Los Angeles Rams
+Green Bay Packers,29.0,31.0,Minnesota Vikings
+Houston Texans,24.0,20.0,Jacksonville Jaguars
+Indianapolis Colts,27.0,24.0,Pittsburgh Steelers
+Las Vegas Raiders,20.0,16.0,Cleveland Browns
+Los Angeles Chargers,10.0,17.0,Kansas City Chiefs
+New York Jets,9.0,10.0,Denver Broncos
+San Francisco 49ers,30.0,13.0,New England Patriots
+Tampa Bay Buccaneers,33.0,16.0,Philadelphia Eagles
+Detroit Lions,42.0,29.0,Seattle Seahawks
+Miami Dolphins,12.0,31.0,Tennessee Titans
+Atlanta Falcons,36.0,30.0,Tampa Bay Buccaneers
+Chicago Bears,36.0,10.0,Carolina Panthers
+Cincinnati Bengals,38.0,41.0,Baltimore Ravens
+Denver Broncos,34.0,18.0,Las Vegas Raiders
+Houston Texans,23.0,20.0,Buffalo Bills
+Jacksonville Jaguars,37.0,34.0,Indianapolis Colts
+Los Angeles Rams,19.0,24.0,Green Bay Packers
+Minnesota Vikings,23.0,17.0,New York Jets
+New England Patriots,10.0,15.0,Miami Dolphins
+Pittsburgh Steelers,17.0,20.0,Dallas Cowboys
+San Francisco 49ers,23.0,24.0,Arizona Cardinals
+Seattle Seahawks,20.0,29.0,New York Giants
+Washington Commanders,34.0,13.0,Cleveland Browns
+Kansas City Chiefs,26.0,13.0,New Orleans Saints
+Seattle Seahawks,24.0,36.0,San Francisco 49ers
+Baltimore Ravens,30.0,23.0,Washington Commanders
+Carolina Panthers,20.0,38.0,Atlanta Falcons
+Chicago Bears,35.0,16.0,Jacksonville Jaguars
+Dallas Cowboys,9.0,47.0,Detroit Lions
+Denver Broncos,16.0,23.0,Los Angeles Chargers
+Green Bay Packers,34.0,13.0,Arizona Cardinals
+Las Vegas Raiders,13.0,32.0,Pittsburgh Steelers
+New England Patriots,21.0,41.0,Houston Texans
+New Orleans Saints,27.0,51.0,Tampa Bay Buccaneers
+New York Giants,7.0,17.0,Cincinnati Bengals
+Philadelphia Eagles,20.0,16.0,Cleveland Browns
+Tennessee Titans,17.0,20.0,Indianapolis Colts
+New York Jets,20.0,23.0,Buffalo Bills
+New Orleans Saints,10.0,33.0,Denver Broncos
+Atlanta Falcons,14.0,34.0,Seattle Seahawks
+Buffalo Bills,34.0,10.0,Tennessee Titans
+Cleveland Browns,14.0,21.0,Cincinnati Bengals
+Green Bay Packers,24.0,22.0,Houston Texans
+Indianapolis Colts,16.0,10.0,Miami Dolphins
+Jacksonville Jaguars,32.0,16.0,New England Patriots
+Los Angeles Rams,20.0,15.0,Las Vegas Raiders
+Minnesota Vikings,29.0,31.0,Detroit Lions
+New York Giants,3.0,28.0,Philadelphia Eagles
+Pittsburgh Steelers,37.0,15.0,New York Jets
+San Francisco 49ers,18.0,28.0,Kansas City Chiefs
+Washington Commanders,40.0,7.0,Carolina Panthers
+Arizona Cardinals,17.0,15.0,Los Angeles Chargers
+Tampa Bay Buccaneers,31.0,41.0,Baltimore Ravens
+Los Angeles Rams,30.0,20.0,Minnesota Vikings
+Cincinnati Bengals,17.0,37.0,Philadelphia Eagles
+Cleveland Browns,29.0,24.0,Baltimore Ravens
+Denver Broncos,28.0,14.0,Carolina Panthers
+Detroit Lions,52.0,14.0,Tennessee Titans
+Houston Texans,23.0,20.0,Indianapolis Colts
+Jacksonville Jaguars,27.0,30.0,Green Bay Packers
+Las Vegas Raiders,20.0,27.0,Kansas City Chiefs
+Los Angeles Chargers,26.0,8.0,New Orleans Saints
+Miami Dolphins,27.0,28.0,Arizona Cardinals
+New England Patriots,25.0,22.0,New York Jets
+San Francisco 49ers,30.0,24.0,Dallas Cowboys
+Seattle Seahawks,10.0,31.0,Buffalo Bills
+Tampa Bay Buccaneers,26.0,31.0,Atlanta Falcons
+Washington Commanders,18.0,15.0,Chicago Bears
+Pittsburgh Steelers,26.0,18.0,New York Giants
+New York Jets,21.0,13.0,Houston Texans
+Arizona Cardinals,29.0,9.0,Chicago Bears
+Atlanta Falcons,27.0,21.0,Dallas Cowboys
+Baltimore Ravens,41.0,10.0,Denver Broncos
+Buffalo Bills,30.0,27.0,Miami Dolphins
+Carolina Panthers,23.0,22.0,New Orleans Saints
+Cincinnati Bengals,41.0,24.0,Las Vegas Raiders
+Cleveland Browns,10.0,27.0,Los Angeles Chargers
+Green Bay Packers,14.0,24.0,Detroit Lions
+Minnesota Vikings,21.0,13.0,Indianapolis Colts
+New York Giants,22.0,27.0,Washington Commanders
+Philadelphia Eagles,28.0,23.0,Jacksonville Jaguars
+Seattle Seahawks,20.0,26.0,Los Angeles Rams
+Tennessee Titans,20.0,17.0,New England Patriots
+Kansas City Chiefs,30.0,24.0,Tampa Bay Buccaneers
+Baltimore Ravens,35.0,34.0,Cincinnati Bengals
+Arizona Cardinals,31.0,6.0,New York Jets
+Carolina Panthers,20.0,17.0,New York Giants
+Chicago Bears,3.0,19.0,New England Patriots
+Dallas Cowboys,6.0,34.0,Philadelphia Eagles
+Houston Texans,23.0,26.0,Detroit Lions
+Indianapolis Colts,20.0,30.0,Buffalo Bills
+Jacksonville Jaguars,7.0,12.0,Minnesota Vikings
+Kansas City Chiefs,16.0,14.0,Denver Broncos
+Los Angeles Chargers,27.0,17.0,Tennessee Titans
+New Orleans Saints,20.0,17.0,Atlanta Falcons
+Tampa Bay Buccaneers,20.0,23.0,San Francisco 49ers
+Washington Commanders,27.0,28.0,Pittsburgh Steelers
+Los Angeles Rams,15.0,23.0,Miami Dolphins
+Philadelphia Eagles,26.0,18.0,Washington Commanders
+Buffalo Bills,30.0,21.0,Kansas City Chiefs
+Chicago Bears,19.0,20.0,Green Bay Packers
+Denver Broncos,38.0,6.0,Atlanta Falcons
+Detroit Lions,52.0,6.0,Jacksonville Jaguars
+Los Angeles Chargers,34.0,27.0,Cincinnati Bengals
+Miami Dolphins,34.0,19.0,Las Vegas Raiders
+New England Patriots,22.0,28.0,Los Angeles Rams
+New Orleans Saints,35.0,14.0,Cleveland Browns
+New York Jets,27.0,28.0,Indianapolis Colts
+Pittsburgh Steelers,18.0,16.0,Baltimore Ravens
+San Francisco 49ers,17.0,20.0,Seattle Seahawks
+Tennessee Titans,13.0,23.0,Minnesota Vikings
+Dallas Cowboys,10.0,34.0,Houston Texans
+Cleveland Browns,24.0,19.0,Pittsburgh Steelers
+Carolina Panthers,27.0,30.0,Kansas City Chiefs
+Chicago Bears,27.0,30.0,Minnesota Vikings
+Green Bay Packers,38.0,10.0,San Francisco 49ers
+Houston Texans,27.0,32.0,Tennessee Titans
+Indianapolis Colts,6.0,24.0,Detroit Lions
+Las Vegas Raiders,19.0,29.0,Denver Broncos
+Los Angeles Rams,20.0,37.0,Philadelphia Eagles
+Miami Dolphins,34.0,15.0,New England Patriots
+New York Giants,7.0,30.0,Tampa Bay Buccaneers
+Seattle Seahawks,16.0,6.0,Arizona Cardinals
+Washington Commanders,26.0,34.0,Dallas Cowboys
+Los Angeles Chargers,23.0,30.0,Baltimore Ravens
+Dallas Cowboys,27.0,20.0,New York Giants
+Detroit Lions,23.0,20.0,Chicago Bears
+Green Bay Packers,30.0,17.0,Miami Dolphins
+Kansas City Chiefs,19.0,17.0,Las Vegas Raiders
+Atlanta Falcons,13.0,17.0,Los Angeles Chargers
+Baltimore Ravens,19.0,24.0,Philadelphia Eagles
+Buffalo Bills,35.0,10.0,San Francisco 49ers
+Carolina Panthers,23.0,26.0,Tampa Bay Buccaneers
+Cincinnati Bengals,38.0,44.0,Pittsburgh Steelers
+Jacksonville Jaguars,20.0,23.0,Houston Texans
+Minnesota Vikings,23.0,22.0,Arizona Cardinals
+New England Patriots,24.0,25.0,Indianapolis Colts
+New Orleans Saints,14.0,21.0,Los Angeles Rams
+New York Jets,21.0,26.0,Seattle Seahawks
+Washington Commanders,42.0,19.0,Tennessee Titans
+Denver Broncos,41.0,32.0,Cleveland Browns
+Detroit Lions,34.0,31.0,Green Bay Packers
+Arizona Cardinals,18.0,30.0,Seattle Seahawks
+Kansas City Chiefs,19.0,17.0,Los Angeles Chargers
+Los Angeles Rams,44.0,42.0,Buffalo Bills
+Miami Dolphins,32.0,26.0,New York Jets
+Minnesota Vikings,42.0,21.0,Atlanta Falcons
+New York Giants,11.0,14.0,New Orleans Saints
+Philadelphia Eagles,22.0,16.0,Carolina Panthers
+Pittsburgh Steelers,27.0,14.0,Cleveland Browns
+San Francisco 49ers,38.0,13.0,Chicago Bears
+Tampa Bay Buccaneers,28.0,13.0,Las Vegas Raiders
+Tennessee Titans,6.0,10.0,Jacksonville Jaguars
+Dallas Cowboys,20.0,27.0,Cincinnati Bengals
+San Francisco 49ers,6.0,12.0,Los Angeles Rams
+Arizona Cardinals,30.0,17.0,New England Patriots
+Carolina Panthers,14.0,30.0,Dallas Cowboys
+Cleveland Browns,7.0,21.0,Kansas City Chiefs
+Denver Broncos,31.0,13.0,Indianapolis Colts
+Detroit Lions,42.0,48.0,Buffalo Bills
+Houston Texans,20.0,12.0,Miami Dolphins
+Jacksonville Jaguars,25.0,32.0,New York Jets
+Los Angeles Chargers,17.0,40.0,Tampa Bay Buccaneers
+New Orleans Saints,19.0,20.0,Washington Commanders
+New York Giants,14.0,35.0,Baltimore Ravens
+Philadelphia Eagles,27.0,13.0,Pittsburgh Steelers
+Seattle Seahawks,13.0,30.0,Green Bay Packers
+Tennessee Titans,27.0,37.0,Cincinnati Bengals
+Las Vegas Raiders,9.0,15.0,Atlanta Falcons
+Minnesota Vikings,30.0,12.0,Chicago Bears
+Los Angeles Chargers,34.0,27.0,Denver Broncos
+Baltimore Ravens,34.0,17.0,Pittsburgh Steelers
+Kansas City Chiefs,27.0,19.0,Houston Texans
+Atlanta Falcons,34.0,7.0,New York Giants
+Buffalo Bills,24.0,21.0,New England Patriots
+Carolina Panthers,36.0,30.0,Arizona Cardinals
+Chicago Bears,17.0,34.0,Detroit Lions
+Cincinnati Bengals,24.0,6.0,Cleveland Browns
+Dallas Cowboys,26.0,24.0,Tampa Bay Buccaneers
+Indianapolis Colts,38.0,30.0,Tennessee Titans
+Las Vegas Raiders,19.0,14.0,Jacksonville Jaguars
+Miami Dolphins,29.0,17.0,San Francisco 49ers
+New York Jets,9.0,19.0,Los Angeles Rams
+Seattle Seahawks,24.0,27.0,Minnesota Vikings
+Washington Commanders,36.0,33.0,Philadelphia Eagles
+Green Bay Packers,34.0,0.0,New Orleans Saints
+Houston Texans,2.0,31.0,Baltimore Ravens
+Pittsburgh Steelers,10.0,29.0,Kansas City Chiefs
+Chicago Bears,3.0,6.0,Seattle Seahawks
+Buffalo Bills,40.0,14.0,New York Jets
+Cincinnati Bengals,30.0,24.0,Denver Broncos
+Los Angeles Rams,13.0,9.0,Arizona Cardinals
+New England Patriots,7.0,40.0,Los Angeles Chargers
+New York Giants,45.0,33.0,Indianapolis Colts
+Cleveland Browns,3.0,20.0,Miami Dolphins
+Jacksonville Jaguars,20.0,13.0,Tennessee Titans
+Minnesota Vikings,27.0,25.0,Green Bay Packers
+New Orleans Saints,10.0,25.0,Las Vegas Raiders
+Philadelphia Eagles,41.0,7.0,Dallas Cowboys
+Tampa Bay Buccaneers,48.0,14.0,Carolina Panthers
+Washington Commanders,30.0,24.0,Atlanta Falcons
+San Francisco 49ers,34.0,40.0,Detroit Lions
+Arizona Cardinals,,,San Francisco 49ers
+Atlanta Falcons,,,Carolina Panthers
+Baltimore Ravens,,,Cleveland Browns
+Dallas Cowboys,,,Washington Commanders
+Denver Broncos,,,Kansas City Chiefs
+Detroit Lions,,,Minnesota Vikings
+Green Bay Packers,,,Chicago Bears
+Indianapolis Colts,,,Jacksonville Jaguars
+Las Vegas Raiders,,,Los Angeles Chargers
+Los Angeles Rams,,,Seattle Seahawks
+New England Patriots,,,Buffalo Bills
+New York Jets,,,Miami Dolphins
+Philadelphia Eagles,,,New York Giants
+Pittsburgh Steelers,,,Cincinnati Bengals
+Tampa Bay Buccaneers,,,New Orleans Saints
+Tennessee Titans,,,Houston Texans
